@@ -1,6 +1,6 @@
-# 🫖 The TEA Stack
+# 🫖 Tea Review Site
 
-Welcome to the most minimal stack out there. This stack makes static site generation a breeze.
+A tea review site project, made with [11ty/Eleventy](eleventy.dev), [TailwindCSS](tailwindcss.com), hosted on [Netlify](netlify.app).
 
 ## 🧰 Tools
 
@@ -26,13 +26,3 @@ It also uses the following build tools:
 - `npm i` to build that big ol' `node_modules` folder
 - `npm run dev` to boot up a live-reloading dev server
 - `npm run build` to build your production-ready site
-
-Feel free to peep the `package.json` file to see all available scripts and packages being utilized.
-
-### 🔥 Tip:
-
-Running `npm run build && npx serve dist` will boot up a local server of your production site to preview before deployment.
-
-### 👋🏻 Thank you!
-
-I appreciate you taking time to check out the TEA stack, Please leave a star and share it if you found it useful!
