@@ -5,9 +5,9 @@
   "main": "index.js",
   "config": {
     "css_in": "src/_styles/_main.pcss",
-    "css_out": "dist/assets/main.bundle.css",
+    "css_out": "_site/assets/main.bundle.css",
     "js_in": "src/_scripts/_main.js",
-    "js_out": "dist/assets/main.bundle.js"
+    "js_out": "_site/assets/main.bundle.js"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production npm-run-all clean -p build:*",
