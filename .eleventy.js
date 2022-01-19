@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
 
 module.exports = (config) => {
-  config.addPassthroughCopy({ 'public': './' })
+  config.addPassthroughCopy({ 'public': './' });
   config.addPassthroughCopy("/src/img");
   config.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
