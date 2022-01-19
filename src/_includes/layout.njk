@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/main.bundle.css">
+  <script src="/assets/main.bundle.js" defer></script>
+  <title>{{ title }} | Tea Review Site</title>
+</head>
+
+<body class="{{ 'debug-screens' if env.devMode }} flex flex-col min-h-screen">
+  {% include 'header.njk' %}
+
+  <main class="flex-1 mx-auto">
+  {% block body %}
+    {{ content | safe }}
+  {% endblock %}
+  
+  </main>
+  {% include 'footer.njk' %}
+</body>
+
+</html>
