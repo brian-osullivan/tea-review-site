@@ -6,10 +6,8 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - learn about teas
-image: /img/T046-300x235.jpg
+image:
 ---
-
-[![](https://web.archive.org/web/20210307020224im_/http://walkerteareview.com//wp-content/uploads/2010/08/DSC_0013-300x199.jpg 'DSC_0013')](https://web.archive.org/web/20210307020224/http://walkerteareview.com//wp-content/uploads/2010/08/DSC_0013.jpg)
 
 Some are heroes, some are masters, and some are just great folks to sit down and enjoy a cup with. You decide which category to place these tea people.
 
