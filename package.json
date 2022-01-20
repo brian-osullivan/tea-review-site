@@ -44,6 +44,7 @@
   "homepage": "https://github.com/mattwaler/tea-stack#readme",
   "dependencies": {
     "alpinejs": "^3.1.0",
+    "eleventy-plugin-youtube-embed": "^1.6.5",
     "luxon": "^2.3.0"
   },
   "devDependencies": {

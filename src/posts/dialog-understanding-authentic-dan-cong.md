@@ -90,6 +90,6 @@ Names of old bushes can be anything you can imagine. These names do not change m
 
 **JW**: Special thanks to Austin, Imen, and Jason for their eager participation in this dialog. In the process of researching, I also discovered a relatively newer form of dan cong from a location distinct from the Phoenix Mountain range. Ling Tou, or [white leaf dan cong](https://baike.baidu.com/view/35097.htm) will have to be a topic of future conversation.
 
-Compare teas with others on the [Scoresheet](https://web.archive.org/web/20160415225732/http://walkerteareview.com/?page_id=6).  
+Compare teas with others on the [Scoresheet](https://web.archive.org/web/20160320214751/http://walkerteareview.com/for-members/scores/).  
 Walker Tea Review- a tea blog with tea reviews and tea tastings.  
 Want to see a tea reviewed? Contact me: jason@walkerteareview.com
