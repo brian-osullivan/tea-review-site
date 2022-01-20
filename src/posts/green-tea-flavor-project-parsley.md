@@ -10,7 +10,7 @@ tags:
 image: /img/IMG_0018-300x225.jpg
 ---
 
-So, a handful of members from the [Association of Tea Bloggers](http://teabloggers.net/) got our hands on research about [flavor analysis of green tea](http://www3.interscience.wiley.com/journal/117965908/abstract?CRETRY=1&SRETRY=0). We thought: “What would happen if you worked backwards from the flavor descriptions, to identifying teas that had those flavors?”
+So, a handful of members from the Association of Tea Bloggers got our hands on research about flavor analysis of green tea. We thought: “What would happen if you worked backwards from the flavor descriptions, to identifying teas that had those flavors?”
 
 Last week [Brett](http://blackdragonteabar.blogspot.com/) presented us with: [Seaweed](http://blackdragonteabar.blogspot.com/2009/10/green-tea-flavor-project-seaweed.html).
 
@@ -52,4 +52,4 @@ Based on this experience, parsley flavor is not something to be sought out by it
 
 Try for yourself. What was your experience?
 
-Next time, [Katrina](http://teapages.blogspot.com/) looks at: [Asparagus](http://teapages.blogspot.com/2009/11/mmmtastes-like-asparagus.html). **(website down)**
+Next time, Katrina looks at: Asparagus. **(website down)**
