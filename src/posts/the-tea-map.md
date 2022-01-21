@@ -7,7 +7,7 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/
+image: /img/teacup.jpg
 ---
 
 The days are here when discerning tea drinkers ask: “where was this tea sourced?”

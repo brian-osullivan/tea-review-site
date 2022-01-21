@@ -6,7 +6,7 @@ date: 2022-01-19
 category: reviews
 tags:
   - favorite teas
-image:
+image: /img/teacup.jpg
 ---
 
 [![Join-Tasting-Button](https://web.archive.org/web/20200925031237im_/http://walkerteareview.com//wp-content/uploads/2009/12/Join-Tasting-Button.jpg 'Join-Tasting-Button')](https://web.archive.org/web/20200925031237/http://walkerteareview.com//?page_id=527)

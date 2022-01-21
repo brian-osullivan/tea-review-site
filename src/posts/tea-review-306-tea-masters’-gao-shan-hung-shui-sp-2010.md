@@ -6,7 +6,7 @@ date: 2022-01-19
 category: reviews
 tags:
   - favorite teas
-image:
+image: /img/teacup.jpg
 ---
 
 [Newsletter](https://web.archive.org/web/20151012031821/http://walkerteareview.com/newsletter)

@@ -6,7 +6,7 @@ date: 2022-01-19
 category: reviews
 tags:
   - favorite teas
-image:
+image: /img/teacup.jpg
 ---
 
 Click the vid to watch. Click on the dots (on the video timeline) to jump to a scene: **(video not working any more)**

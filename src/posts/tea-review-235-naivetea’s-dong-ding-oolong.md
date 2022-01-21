@@ -6,7 +6,7 @@ date: 2022-01-19
 category: reviews
 tags:
   - favorite teas
-image:
+image: /img/teacup.jpg
 ---
 
 **(video no longer available)**

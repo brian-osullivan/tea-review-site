@@ -8,7 +8,7 @@ tags:
   - how to
   - learn about teas
   - education
-image: /img/
+image: /img/teacup.jpg
 ---
 
 Part of a series on [How To Expand Your Tea Education](https://web.archive.org/web/20210418232231/http://walkerteareview.com//tag/education/).

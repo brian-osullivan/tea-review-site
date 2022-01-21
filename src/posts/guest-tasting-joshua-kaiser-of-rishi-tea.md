@@ -6,7 +6,7 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - favorite teas
-image:
+image: /img/teacup.jpg
 ---
 
 [![Join-Tasting-Button](/img/Join-Tasting-Button.jpg 'Join-Tasting-Button')](https://web.archive.org/web/20210418224840/http://walkerteareview.com//?page_id=527)

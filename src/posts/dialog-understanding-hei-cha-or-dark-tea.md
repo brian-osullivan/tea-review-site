@@ -7,7 +7,7 @@ category: dialog
 tags:
   - dark tea
   - hei cha
-image:
+image: /img/teacup.jpg
 ---
 
 “Red” tea. “Black” tea. “Dark” tea. “Pu’er.” Many names, and not all the same. The terms get tossed around without much thought to the larger tea context. I have seen “red tea” used to label rooibos, but that fails to consider the older Chinese usage. “Black tea” is familiar in English, but that can lead to confusion when there is an attempt to explain “dark tea”. To further complicate, pu’er often gets categorized with other “black teas,” according to the traditional English usage of the term.
