@@ -1,20 +1,13 @@
 ---
 title: 'Best English breakfast teas'
 description: Best English breakfast teas.
-author: Tea Lover
+author: Andrew Warner
 date: 2022-01-20
 category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg
 ---
-
-<!-- image -->
-<figure>
-    <img class="rounded" src="/img/1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg" alt="Trilingual inscription of Xerxes Van 1973">
-    <figcaption>10 Commandments of Tea</figcaption>
-</figure>
 
 # The best selection of English breakfast teas 2022
 
