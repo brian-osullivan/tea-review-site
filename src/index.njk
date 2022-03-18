@@ -2,8 +2,22 @@
 {% extends "layout.njk" %}
 
 {% block body %}
-  <main class="container py-16 prose prose-xl hover:prose-a:decoration-yellow-500 prose-a:text-blue-500">
-    <h1>Welcome to the Tea Review Site!</h1>
-    <p>Check out the latest <a href="/posts/">posts</a></p>
-  </main>
+<div class="px-4 py-12 my-4 bg-white sm:px-6 lg:py-16 lg:px-8">
+  <div class="container mx-auto max-w-7xl">
+    <!-- header -->
+    <div class="text-center">
+      <h2
+        class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+        From the blog
+      </h2>
+      <p class="max-w-2xl mx-auto mt-3 text-xl text-gray-500 sm:mt-4">
+        Check out our latest content
+      </p>
+    </div>
+
+    {% set postslist = collections.posts | reverse %}
+    {% include "postslist.njk" %}
+    
+  </div>
+</div>
 {% endblock %}

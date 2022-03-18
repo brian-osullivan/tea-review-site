@@ -1,3 +1,3 @@
 module.exports = [
-  { name: 'Posts', route: '/posts/' },
+  // { name: 'Posts', route: '/posts/' },
 ]

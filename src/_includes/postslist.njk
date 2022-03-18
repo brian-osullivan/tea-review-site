@@ -1,12 +1,10 @@
 {% block body %}
   <div class="grid max-w-lg gap-5 mx-auto mt-12 lg:grid-cols-3 lg:max-w-none">
 
-
     {% for post in postslist %}
 
       <div class="flex flex-col overflow-hidden rounded-lg shadow-lg hover:shadow-xl">
         <div class="flex-shrink-0">
-          <!-- <img class="object-cover w-full h-48" src="https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80" alt=""> -->
           <img
             class="object-cover w-full h-48"
             src="{{ post.data.image }}"
@@ -18,7 +16,6 @@
             <p class="text-sm font-medium text-indigo-600">{{ post.data.category | capitalize }}</p>
             <div class="flex space-x-1 text-sm text-gray-500">
               <time datetime="2020-03-16">
-                {# {{ post.date.toUTCString() }} #}
                 {{ post.date | postDate }}
               </time>
             </div>
