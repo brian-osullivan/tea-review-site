@@ -8,11 +8,17 @@ tags:
   - how to
   - learn about teas
 image: /img/black-tea.jpg
+image_alt: Best Black Teas for 2022
 ---
-# **Our pick of the best black teas 2022**
+# Our pick of the best black teas 2022
 
+<!-- image -->
+<figure>
+    <img class="rounded" src="{{ image }}" alt="{{ image_alt }}">
+    <figcaption>{{ image_alt }}</figcaption>
+</figure>
 
-## **What is black tea?**
+## What is black tea?
 
 Black tea is one of the most versatile teas around. Compared to green tea or oolong, there are so many different ways to enjoy it, making it an excellent tea for newbies to the tea world. From strong English breakfast tea to creamy, cardamom-spiked masala chai, you’re sure to find one that you love.
 
@@ -23,14 +29,14 @@ Oxidation doesn’t just change the color of the tea leaves though. It also crea
 Black tea has a robust flavor that pairs quite well with milk and sugar. It’s also great on its own and makes for a great base for iced tea. Thanks to its long shelf-life, it’s even played a role as currency in some regions of northeast Asia. Even if you’re new to tea, you’ve likely tried black tea in some capacity before. As the basis for flavored teas like masala chai and Earl Grey, you’ll find it pretty much wherever you can find tea. Whether you prefer the plainer notes of a pure tea or bergamot-perfumed Earl Grey, we’ve got you covered with our list of the best black teas on the market now.
 
 
-## **Types of black tea**
+## Types of black tea
 
 Black tea has a long history. It’s got an extremely long shelf-life compared to other teas, which has made it an important product of global trade for several centuries. Its worldwide popularity has led it to have several different preparations and processing techniques worldwide. 
 
 That’s just one reason why black tea from China might not taste quite the same as black tea from India, for example. This makes it important to try as many different options as possible, especially if you’re a tea newbie. Trying black teas from many different regions will help you become more well-versed in the flavor profiles of different teas. Here’s a brief rundown of some of the major producers of black teas.
 
 
-### **Indian**
+### Indian
 
 While China is still the largest worldwide producer of tea (including green and oolong, among others), India produces the most black tea out of any other country in the world. Indian black teas — for example, Assam tea — tend to have a malty flavor that pairs especially well with a dash of milk and sugar. 
 
@@ -39,28 +45,28 @@ Assam tea is one of the most well-known Indian teas, however, Darjeeling and Nil
 In India, tea is called “chai.” In English-speaking countries, this word is practically synonymous with masala chai, a traditional preparation of black tea that’s generally spiced with ginger, cardamom and cinnamon. Warms spices give masala chai its characteristic autumnal flavor profile, which is perfect for a rainy day pick-me-up.
 
 
-### **Chinese**
+### Chinese
 
 China is well-known for its green teas and oolongs, however, the country also produces excellent black tea as well. Chinese black teas tend to be a bit more delicate than Indian black teas, and are best served without milk or sugar.
 
 Keemun is one of the most popular Chinese black teas, along with Lapsang Souchong. Both have slightly smokey flavors, though Keemun is a bit more neutral. Some tea drinkers describe Keemun as having strong floral undertones. On the other hand, Lapsang Souchong has an intensely smokey flavor. Lapsang Souchong also tends to consist of slightly lower quality leaves, as the smoking process can overpower the more sophisticated notes of a high-quality black tea.
 
 
-### **Sri Lankan**
+### Sri Lankan
 
 Although Sri Lanka officially ditched the country name Ceylon in 1948, tea sellers still use the word Ceylon to describe black teas that were harvested and processed in Sri Lanka. Though the country is small, it’s one of the largest tea producers in the world, and for good reason too. 
 
 Pure Ceylon teas are of extremely high quality, as the Sri Lanka Tea Board oversees their production. The Tea Board places a lion stamp on the packaging of all Ceylon teas that meet the board’s quality standards. Like teas from India, Ceylon tea pairs quite well with milk and sugar. It also makes for a great base in a traditional cup of masala chai.
 
 
-### **Blends**
+### Blends
 
 While single-origin teas are often of slightly higher quality, black tea blends are also a great way to get exposure to new, unique flavor profiles. As the name suggests, blends don’t have one particular origin, and instead, consist of tea leaves from different sources. English breakfast tea, for example, is a blend of black teas that are typically sourced from India, Sri Lanka and Kenya.
 
 Sometimes, black tea blends consist of additional spices or flavoring additives — think things like cinnamon, citrus peel, ginger, etc. These additives give these tea blends a flavor that you can’t get with plain black tea — for example, bergamot essential oil adds a citrusy flavor to Earl Grey, while ginger and cardamom add a warm, spicy dimension to masala chai. You can also combine different teas and spices in your kitchen to prepare your own blends if you’re feeling experimental enough to try something new.
 
 
-## **Bagged vs. Loose leaf**
+## Bagged vs. Loose leaf
 
 This is one of those age-old debates of the tea world. 
 
@@ -71,7 +77,7 @@ Loose leaf tea tends to be a higher quality option, but it can also be a bit mor
 Either way, there are high-quality options available in both bagged and loose leaf teas. We recommend tea newbies try out many different options in both tea bags and loose-leaf forms, to see which flavors and styles you prefer.
 
 
-## **How to steep black tea**
+## How to steep black tea
 
 The easiest way to brew black tea is with an electric kettle. An electric kettle with temperature settings is ideal, though you can certainly do without this feature.
 
@@ -87,7 +93,7 @@ Brewing times vary from tea to tea. Darjeeling, for example, requires a brief st
 Black tea can also make for a good iced tea. Just double the amount of tea and brew it for a little bit longer, so that it’s a bit more concentrated. Then dilute your concentration with cold water and chill overnight. If you like sweet iced tea, you’ll want to add the desired amount of sugar before chilling the tea, otherwise it may not dissolve properly. Alternatively, you can add a simple syrup after chilling your iced tea overnight — however, this may weaken the overall flavor of the tea a bit.
 
 
-## **Best black tea brands**
+## Best black tea brands
 
 If you’re in the market for a versatile and high-quality black tea but aren’t sure where to begin, look no further. We’ve compiled a list of the best black teas on the market right now. Whether you want something a bit more plain to enjoy with milk and sugar or you want to try something smokey and adventurous, we’ve got you covered. Here’s our selection of the best black tea brands out there in 2022.
 
@@ -169,6 +175,6 @@ Do you like the taste of tea but don’t want to be up all night? If you’re tr
 There’s nothing better than a nice swig of iced tea on a hot summer day. For something refreshing and cool, we like The Republic of Tea’s ginger and peach infused black tea. This tea is great on its own over a glass of ice, but it’s even better with a light squeeze of lemon juice and a dash of sugar for the ultimate summer refresher. 
 
 
-## **Conclusion**
+## Conclusion
 
 The above teas are a perfect addition to your tea cabinet — we recommend sampling a few to figure out which flavors you like best. Whether you take your tea with milk and a lot of sugar, or like to let the tea leaves speak for themselves, you’re sure to find something you love among the teas listed above.
