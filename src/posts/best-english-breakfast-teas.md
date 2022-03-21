@@ -1,5 +1,5 @@
 ---
-title: 'Best English breakfast teas'
+title: 'Best English breakfast teas 2022'
 description: Best English breakfast teas.
 author: Andrew Warner
 date: 2022-01-20
@@ -8,8 +8,6 @@ tags:
   - how to
   - learn about teas
 ---
-
-# The best selection of English breakfast teas 2022
 
 
 ## What is English breakfast tea?
