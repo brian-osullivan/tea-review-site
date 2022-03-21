@@ -45,6 +45,7 @@
   "dependencies": {
     "@quasibit/eleventy-plugin-sitemap": "^2.1.5",
     "alpinejs": "^3.1.0",
+    "eleventy-plugin-metagen": "^1.6.0",
     "eleventy-plugin-youtube-embed": "^1.6.5",
     "luxon": "^2.3.0"
   },

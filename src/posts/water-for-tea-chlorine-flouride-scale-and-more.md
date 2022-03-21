@@ -8,11 +8,12 @@ tags:
   - how to
   - learn about teas
 image: /img/IMG_0015.jpg
+image_alt: Clean lake water
 ---
 
 <!-- image -->
 <figure>
-    <img class="rounded" src="/img/IMG_0015.jpg" alt="clean lake">
+    <img class="rounded" src="/img/IMG_0015.jpg" alt="{{ image_alt }}">
     <figcaption>Water for Tea</figcaption>
 </figure>
 

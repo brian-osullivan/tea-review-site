@@ -1,12 +1,14 @@
 const { DateTime } = require("luxon");
 const embedYouTube = require("eleventy-plugin-youtube-embed");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
+const metagen = require("eleventy-plugin-metagen");
 
 module.exports = (config) => {
   config.addPassthroughCopy({ 'public': './' });
   // Copy `img/` to `_site/img`
   config.addPassthroughCopy("src/img");
   config.addPlugin(embedYouTube);
+  config.addPlugin(metagen);
   config.addPlugin(sitemap, {
     sitemap: {
       hostname: "https://www.walkerteareview.com/",
