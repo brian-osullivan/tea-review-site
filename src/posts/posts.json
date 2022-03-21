@@ -2,6 +2,5 @@
   "tags": [
     "posts"
   ],
-  "layout": "post.njk",
-  "author": "Andrew Warner"
+  "layout": "post.njk"
 }
