@@ -7,14 +7,11 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/black-tea.jpg
+image: img/black-tea.jpg
 image_alt: Best Black Teas for 2022
 ---
 <!-- image -->
-<figure>
-    <img class="rounded" src="{{ image }}" alt="{{ image_alt }}">
-    <figcaption>{{ image_alt }}</figcaption>
-</figure>
+{% image "black-tea.jpg", image_alt %}
 
 ## What is black tea?
 

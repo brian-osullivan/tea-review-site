@@ -51,6 +51,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0-beta.10",
+    "@11ty/eleventy-img": "^2.0.0",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/typography": "^0.5.0",
     "cross-env": "^7.0.3",

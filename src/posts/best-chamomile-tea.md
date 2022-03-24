@@ -7,8 +7,11 @@ category: how-to
 tags:
   - how to
   - learn about teas
+image: img/chamomile-tea.jpg
+image_alt: Best chamomile teas in 2022
 ---
-
+<!-- image -->
+{% image "chamomile-tea.jpg", image_alt %}
 
 Chamomile tea is, by and large, one of the most common home remedies for insomnia. The benefits of drinking chamomile tea, however, go a lot further than just that.
 
