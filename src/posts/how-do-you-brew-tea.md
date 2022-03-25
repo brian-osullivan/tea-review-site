@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/429216_10150638328453948_1929103164_n.jpg
+image: 429216_10150638328453948_1929103164_n.jpg
+image_alt: Steep tea gaiwan
 ---
 
 <!-- image -->

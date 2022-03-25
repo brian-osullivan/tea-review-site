@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/IMG_0029-224x300.jpg
+image: IMG_0029-224x300.jpg
+image_alt: Tea Gunpowder
 ---
 
 **video no longer available on viddler**

@@ -7,7 +7,8 @@ category: reviews
 tags:
   - favorite teas
   - chinese tea
-image: /img/IMG_20120517_155610-300x300.jpg
+image: IMG_20120517_155610-300x300.jpg
+image_alt: Authentic da hong pao
 ---
 
 Appellation. For wine and other products, appellation offers legal protection. It prevents a tea labeled “Darjeeling” from being produced outside of the designated geographical region of Darjeeling. Even though it has been produced for generations, da hong pao tea does not yet have such a recognized (and enforced) appellation. So I asked 2 colleagues to help clarify what it means to have an authentic “da hong pao.”

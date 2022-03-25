@@ -6,7 +6,8 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - favorite teas
-image: /img/IMG_0034-225x300.jpg
+image: IMG_0034-225x300.jpg
+image_alt: Tea predictions for 2013
 ---
 
 First off, a look at [last year’s predictions](https://web.archive.org/web/20210419004828/http://walkerteareview.com//http:/walkerteareview.com/reading-the-leaves-tea-predictions-for-2012) to see if they came true:

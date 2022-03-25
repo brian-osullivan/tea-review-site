@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/img_0012-225x300.jpg
+image: img_0012-225x300.jpg
+image_alt: Organic Emerald Pearls tea
 ---
 
 https://www.youtube.com/watch?v=CMBn7vBV7io

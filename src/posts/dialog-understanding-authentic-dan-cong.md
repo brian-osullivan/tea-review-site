@@ -6,7 +6,8 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - favorite teas
-image: /img/IMG_0016-300x225.jpg
+image: IMG_0016-300x225.jpg
+image_alt: Authentic dan cong
 ---
 
 Origin. Harvest. Varietal. Grade. Processing choices. These are some of the factors to consider when choosing an artisanal loose leaf tea. Depending on the kind of tea, these choices are generally more straightforward.

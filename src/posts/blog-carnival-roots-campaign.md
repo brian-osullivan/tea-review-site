@@ -7,7 +7,8 @@ category: reviews
 tags:
   - favorite teas
   - chinese teas
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 [![Adagio Roots Campaign Huang Jian Lin Pi Lo Chun](https://walkerteareview.com//wp-content/uploads/2011/08/HuangJianLin.AdagioRoots.jpg 'HuangJianLin.AdagioRoots')](https://www.adagio.com/roots_campaign/huang_jian_lin.html)

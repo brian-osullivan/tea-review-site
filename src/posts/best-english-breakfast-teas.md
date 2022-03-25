@@ -7,6 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 

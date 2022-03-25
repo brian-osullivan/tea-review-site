@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg
+image: 1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg
+image_alt: Tea Commandments
 ---
 
 <!-- image -->

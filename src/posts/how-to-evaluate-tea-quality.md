@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/100_1240.jpg
+image: 100_1240.jpg
+image_alt: How to evaluate tea quality
 ---
 
 <!-- image -->

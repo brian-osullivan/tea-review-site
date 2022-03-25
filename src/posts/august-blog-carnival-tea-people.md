@@ -6,7 +6,8 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - learn about teas
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 Some are heroes, some are masters, and some are just great folks to sit down and enjoy a cup with. You decide which category to place these tea people.

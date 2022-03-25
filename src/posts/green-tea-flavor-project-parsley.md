@@ -7,7 +7,8 @@ category: reviews
 tags:
   - favorite teas
   - green tea
-image: /img/IMG_0018-300x225.jpg
+image: IMG_0018-300x225.jpg
+image_alt: Green tea flavor
 ---
 
 So, a handful of members from the Association of Tea Bloggers got our hands on research about flavor analysis of green tea. We thought: “What would happen if you worked backwards from the flavor descriptions, to identifying teas that had those flavors?”

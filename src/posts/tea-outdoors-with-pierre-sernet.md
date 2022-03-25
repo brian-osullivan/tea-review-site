@@ -7,7 +7,8 @@ category: voices of tea
 tags:
   - how to
   - learn about teas
-image: /img/T046-300x235.jpg
+image: T046-300x235.jpg
+image_alt: Tea outdoors with Pierre Sernet
 ---
 
 <!-- image -->

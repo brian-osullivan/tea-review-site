@@ -42,7 +42,28 @@ const isUrl = (str) => {
     })
 
     return `<figure>${markup}<figcaption>${alt}</figcaption></figure>`
-  }
+  };
+
+  // Image shortcode for post cover images
+  const imageCoverShortcode = async ( src, alt ) => {
+    if (alt === undefined) throw new Error(`Missing 'alt' on responsive image from: ${src}`)
+    const srcPath = isUrl(src) ? src : path.join('./src/img/', src)
+    const imgDir = isUrl(src) ? '' : path.parse(src).dir
+    const metadata = await Image(srcPath, {
+      widths,
+      formats,
+      outputDir: path.join('_site/img', imgDir),
+      urlPath: '/img' + imgDir,
+    })
+    const markup = Image.generateHTML(metadata, {
+      alt,
+      sizes,
+      loading: 'lazy',
+      decoding: 'async',
+      class: 'object-cover w-full h-48',
+    })
+    return `<figure>${markup}</figure>`
+  };
 
 const now = String(Date.now());
 
@@ -60,6 +81,7 @@ module.exports = (config) => {
   });
   // add Image shortcode
   config.addNunjucksAsyncShortcode("image", imageShortcode);
+  config.addNunjucksAsyncShortcode("imageCover", imageCoverShortcode);
   config.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
   });

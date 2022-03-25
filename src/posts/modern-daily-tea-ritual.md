@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/g1-1024x767.jpg
+image: g1-1024x767.jpg
+image_alt: Modern daily tea ritual
 ---
 
 <!-- image -->

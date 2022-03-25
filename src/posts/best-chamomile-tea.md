@@ -7,7 +7,7 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: img/chamomile-tea.jpg
+image: chamomile-tea.jpg
 image_alt: Best chamomile teas in 2022
 ---
 <!-- image -->

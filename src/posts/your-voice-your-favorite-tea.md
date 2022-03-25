@@ -6,7 +6,8 @@ date: 2022-01-19
 category: voices of tea
 tags:
   - favorite teas
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 **The Association of Tea Bloggers is changing the course of tea.**

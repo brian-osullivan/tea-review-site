@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/396px-Camellia_sinensis_-_Köhler–s_Medizinal-Pflanzen-025.jpg
+image: 396px-Camellia_sinensis_-_Köhler–s_Medizinal-Pflanzen-025.jpg
+image_alt: Where does tea come from
 ---
 
 ### Where does tea come from?

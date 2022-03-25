@@ -7,7 +7,8 @@ category: reviews
 tags:
   - favorite teas
   - japanese tea
-image: /img/Souheki-Mori.jpg
+image: Souheki-Mori.jpg
+image_alt: Souheki Mori
 ---
 
 <!-- image -->

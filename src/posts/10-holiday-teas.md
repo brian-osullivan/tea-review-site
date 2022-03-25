@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/holiday-tea-recommendations-300x234.png
+image: holiday-tea-recommendations-300x234.png
+image_alt: Holiday teas
 ---
 
 <!-- image -->

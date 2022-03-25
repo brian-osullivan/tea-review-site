@@ -7,7 +7,8 @@ category: reviews
 tags:
   - favorite teas
   - chinese tea
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 **video no longer available on viddler**

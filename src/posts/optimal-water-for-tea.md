@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/2012-10-09-14.59.01-1024x612.jpg
+image: 2012-10-09-14.59.01-1024x612.jpg
+image_alt: Optimal water for tea
 ---
 
 <!-- image -->

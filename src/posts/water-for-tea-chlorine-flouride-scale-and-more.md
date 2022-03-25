@@ -7,7 +7,7 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/IMG_0015.jpg
+image: IMG_0015.jpg
 image_alt: Clean lake water for tea
 ---
 <!-- image shortcode -->

@@ -7,7 +7,8 @@ category: review
 tags:
   - green tea
   - ginger
-image: /img/argo-tea.jpg
+image: argo-tea.jpg
+image_alt: Argo tea
 ---
 
 ![Argo Green Tea Ginger Twist](/img/Argo-Green-Ginger-Twist-Flavor-Wheel.png)

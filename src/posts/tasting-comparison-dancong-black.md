@@ -6,7 +6,8 @@ date: 2022-01-19
 category: reviews
 tags:
   - dancong black
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 **Comment**: a fork in the road here. The tangy, fruity zest of wulong, or the dark chocolate bittersweet.

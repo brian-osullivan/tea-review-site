@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/nonpareil_huangshanmaofeng_160630_04.jpg
+image: nonpareil_huangshanmaofeng_160630_04.jpg
+image_alt: Teavivre’s Nonpareil Te Gong Huang Shan Mao Feng
 ---
 
 https://www.youtube.com/watch?v=onCl-QH6piY

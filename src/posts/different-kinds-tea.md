@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/TeaHawaii-cupping.jpeg
+image: TeaHawaii-cupping.jpeg
+image_alt: Tea cupping
 ---
 
 <!-- image -->

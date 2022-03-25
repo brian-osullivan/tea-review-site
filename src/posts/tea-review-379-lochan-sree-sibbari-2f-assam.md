@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 **video no longer available on viddler**

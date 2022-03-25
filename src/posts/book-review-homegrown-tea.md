@@ -6,7 +6,8 @@ date: 2022-01-20
 category: reviews
 tags:
   - favorite teas
-image: /img/Homegrown-Tea-C.-Liversidge-797x1024.jpg
+image: Homegrown-Tea-C.-Liversidge-797x1024.jpg
+image_alt: Book cover Homegrown Tea
 ---
 
 <!-- image -->

@@ -7,7 +7,8 @@ category: voices of tea
 tags:
   - favorite teas
   - blog carnival
-image: /img/teacup.jpg
+image: teacup.jpg
+image_alt: Teacup
 ---
 
 The number of tea blogs continues to expand, but few are answering the question- “Why?”

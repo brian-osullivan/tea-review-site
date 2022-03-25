@@ -6,7 +6,8 @@ date: 2022-01-20
 category: voices of tea
 tags:
   - favorite teas
-image: /img/Beth-Cupping-Fujian-2008-225x300.jpg
+image: Beth-Cupping-Fujian-2008-225x300.jpg
+image_alt: Beth Cupping Fujian
 ---
 
 [Beth Johnston](https://www.teasetc.com/our-story) left her job in healthcare, started Teas Etc in 1998, and never turned back. Teas Etc. is now an established and recognized source for quality teas.

@@ -6,7 +6,8 @@ date: 2022-01-19
 category: reviews
 tags:
   - favorite teas
-image: /img/snow-on-longjing-dragonwell-fields-2013-300x196.jpg
+image: snow-on-longjing-dragonwell-fields-2013-300x196.jpg
+image_alt: Snow on Longjing Dragonwell fields
 ---
 
 For those of you who have been pining for fresh 2013 dragonwell (longjing) green tea, there is good news.

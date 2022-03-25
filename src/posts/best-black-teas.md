@@ -7,7 +7,7 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: img/black-tea.jpg
+image: black-tea.jpg
 image_alt: Best Black Teas for 2022
 ---
 <!-- image -->

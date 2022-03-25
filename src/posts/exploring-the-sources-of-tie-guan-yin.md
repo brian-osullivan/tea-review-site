@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/Meizhan-cultivar-Tie-Guan-Yin-Wan-Ling-Tea-House1-1024x768.jpg
+image: Meizhan-cultivar-Tie-Guan-Yin-Wan-Ling-Tea-House1-1024x768.jpg
+image_alt: Meizhan Cultivar
 ---
 
 <!-- image -->

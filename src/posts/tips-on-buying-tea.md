@@ -7,7 +7,8 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: /img/IMG_0009-round.jpg
+image: IMG_0009-round.jpg
+image_alt: Tea set
 ---
 
 A few years ago [Consumerist covered the story](https://consumerist.com/2013/02/15/why-doesnt-the-teavana-tea-i-brew-at-home-taste-like-it-does-at-the-store/) of a Teavana consumer who was unable to replicate the in-store tea tasting experience when steeping the same tea at home. With some follow-up, the consumer discovered the steeping instructions she followed on the side of the package could not yield the result delivered at the store tasting.
