@@ -1,6 +1,6 @@
 ---
 title: 'Our pick of the best black teas 2022'
-description: Our pick of the best blacks teas in 2022. We review Indian, Chinese, Sri Lankan, and blends like English and Irish breakfast.
+description: Our pick of the best black teas in 2022. We review Indian, Chinese, Sri Lankan, and blends like English and Irish breakfast.
 author: Andrew Warner
 date: 2022-03-02
 category: how-to
