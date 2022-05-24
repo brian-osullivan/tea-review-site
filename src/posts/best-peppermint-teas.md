@@ -1,6 +1,6 @@
 ---
 title: 'Our pick of the best peppermint teas 2022'
-description: Our pick of the best peppermint teas in 2022. We review peppermint teas of all types, bagged, loose-leaf, blends and more.
+description: Our pick of the best peppermint teas in 2022. We review peppermint teas of all types, bagged, loose-leaf, blends and more. The mint leaves are a great source of antioxidants. They also provide a nice balance of caffeine and essences.
 author: Andrew Warner
 date: 2022-03-29
 category: how-to
