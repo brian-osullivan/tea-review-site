@@ -1,6 +1,6 @@
 ---
 title: 'Orange Pekoe Tea Guide | Key Characteristics & Benefits'
-description: When you’re first getting started with teas, you’re likely to come across the phrase “Orange Pekoe.” While it may sound like a fruity, citrus-infused tea blend, there’s no citrus (orange or otherwise) involved in producing this popular tea variety. Likewise, the name Orange Pekoe has nothing to do with the color of the brewed tea, which is actually more of a dark brown or even black hue.
+description: This tea is known for its rich, fruity flavor. While it may not be the most popular black tea, it's still a great option for those looking to add a little citrus to their tea.
 author: Andrew Warner
 date: 2022-05-24
 category: how-to
