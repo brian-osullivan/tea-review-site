@@ -165,7 +165,7 @@ Do you like the taste of tea but don’t want to be up all night? If you’re tr
 
 ### **[Best for iced tea](https://www.amazon.com/Republic-Tea-Ginger-Peach-Caffeinated/dp/B0024SIHAG/ref=sr_1_15?almBrandId=VUZHIFdob2xlIEZvb2Rz&crid=UXBPGMPXXRUY&fpw=alm&keywords=black+iced+tea&qid=1646098922&s=wholefoods&sprefix=black+iced+tea%2Cwholefoods%2C88&sr=1-15)**
 
-There’s nothing better than a nice swig of iced tea on a hot summer day. For something refreshing and cool, we like The Republic of Tea’s ginger and peach infused black tea. This tea is great on its own over a glass of ice, but it’s even better with a light squeeze of lemon juice and a dash of sugar for the ultimate summer refresher. 
+There is nothing better than a nice swig of iced tea on a hot summer day. For something refreshing and cool, we like The Republic of Tea’s ginger and peach infused black tea. This tea is great on its own over a glass of ice, but it’s even better with a light squeeze of lemon juice and a dash of sugar for the ultimate summer refresher. 
 
 
 ## Conclusion
