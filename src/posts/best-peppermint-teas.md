@@ -10,6 +10,8 @@ tags:
 image: teacup.jpg
 image_alt: Teacup
 --- 
+{% image "peppermint-tea.jpg"%}
+
 There’s nothing quite like peppermint tea to keep you feeling cozy on a rainy day. Peppermint tea is an herbal tea that packs a serious punch. Its bright and vibrant flavor has a slight cooling effect that you can’t really get with other teas. While we often associate peppermint flavors with cold winter months, the cooling effect makes peppermint tea perfect for any time of year. 
 
 A glass of peppermint tea over ice is the perfect summer drink to keep you cool. Likewise, a milky mug of warm peppermint-infused yumminess is an excellent way to feel festive during the holidays.
@@ -36,7 +38,7 @@ Menthol is the chemical compound that gives peppermint its characteristic coolin
 
 ## Peppermint tea side effects
 
-For all its benefits, peppermint tea isn’t some magical be-all-end-all herbal remedy. As with all things, moderation is key. While most people can go through several cups of peppermint tea per day, peppermint-curious folks should be careful not to drink too much, as there can be [negative side effects](https://www.webmd.com/diet/peppermint-tea-good-for-you). \
+For all its benefits, peppermint tea isn’t some magical be-all-end-all herbal remedy. As with all things, moderation is key. While most people can go through several cups of peppermint tea per day, peppermint-curious folks should be careful not to drink too much, as there can be [negative side effects](https://www.webmd.com/diet/peppermint-tea-good-for-you). 
 
 
 Earlier, we talked about peppermint tea’s potentially beneficial effects on the gastrointestinal tract. While this is great for most people, individuals who struggle with acid reflux should be careful not to drink too much. Although peppermint can improve digestive function, it can also worsen acid reflux symptoms. Doctors often recommend individuals avoid peppermint if they struggle with chronic acid reflux, as menthol can exacerbate feelings of heartburn and other discomfort associated with acid reflux. 
