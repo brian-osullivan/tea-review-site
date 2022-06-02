@@ -9,7 +9,7 @@ image: black-tea.jpg
 image_alt: Best Black Teas for 2022
 ---
 <!-- image -->
-{% image "black-tea.jpg"%}
+{% image "peppermint-tea.jpg"%}
 
 ## What is black tea?
 
