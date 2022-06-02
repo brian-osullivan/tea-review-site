@@ -57,6 +57,8 @@ If you’re ready to stock up on peppermint teas, look no further than this guid
 
 ### [Taylors of Harrogate](https://www.amazon.com/Taylors-Harrogate-Organic-Peppermint-Teabags/dp/B07BRBSVK4/ref=sr_1_6?crid=HSZ5JXE63YA0&keywords=peppermint+tea&qid=1648498081&sprefix=peppermint+tea%2Caps%2C64&sr=8-6)
 
+{% image "taylors_of_harrogate-removebg-preview.png"%}
+
 You certainly can’t go wrong with this brand. Taylors of Harrogate’s been in the tea industry since 1886. A family-run business with more than a century’s worth of experience, Taylors knows good tea.
 
 The company’s organic peppermint tea is an exceptionally delightful option. With its intense minty aroma, reviews note that this option has some of the strongest peppermint flavor on the market today. This is an organic peppermint tea that goes best with a dash of sugar or honey. Plus, it comes in convenient (and environmentally sustainable) tea bags, making for a great grab-and-go option for tea lovers in a hurry.
