@@ -4,7 +4,7 @@ description: When you’re looking for the right tea to soothe your inflammation
 author: Andrew Warner
 date: 2022-06-06
 category: review
-image: black-tea.jpg
+image: mixed-teas.jpg
 ---
 <!-- image -->
 {% image "black-tea.jpg"%}
