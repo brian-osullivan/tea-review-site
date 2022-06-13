@@ -6,9 +6,10 @@ date: 2022-03-02
 category: review
 metaTitle: 'Our pick of the best black teas 2022 | Tea review site'
 image: black-tea.jpg
+image_alt: Best black tea
 ---
 <!-- image -->
-{% image "black-tea.jpg"%}
+{% image "black-tea.jpg", image_alt %}
 
 ## What is black tea?
 

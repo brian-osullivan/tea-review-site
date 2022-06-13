@@ -5,11 +5,10 @@ author: Andrew Warner
 date: 2022-06-06
 category: review
 image: mixed-teas.jpg
+image_alt: Mixed teas
 ---
 <!-- image -->
-{% image "black-tea.jpg"%}
-
-
+{% image "black-tea.jpg", "Black teas" %}
 
 ## Best Tea for Inflammation & Muscle Pain
 

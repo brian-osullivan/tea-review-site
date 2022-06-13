@@ -10,7 +10,8 @@ tags:
 image: teacup.jpg
 image_alt: Teacup
 --- 
-{% image "peppermint-tea.jpg"%}
+
+{% image "peppermint-tea.jpg", image_alt %}
 
 There’s nothing quite like peppermint tea to keep you feeling cozy on a rainy day. Peppermint tea is an herbal tea that packs a serious punch. Its bright and vibrant flavor has a slight cooling effect that you can’t really get with other teas. While we often associate peppermint flavors with cold winter months, the cooling effect makes peppermint tea perfect for any time of year. 
 
@@ -57,7 +58,7 @@ If you’re ready to stock up on peppermint teas, look no further than this guid
 
 ### [Taylors of Harrogate](https://www.amazon.com/Taylors-Harrogate-Organic-Peppermint-Teabags/dp/B07BRBSVK4/ref=sr_1_6?crid=HSZ5JXE63YA0&keywords=peppermint+tea&qid=1648498081&sprefix=peppermint+tea%2Caps%2C64&sr=8-6)
 
-{% image "taylors_of_harrogate-removebg-preview.png"%}
+{% image "taylors_of_harrogate-removebg-preview.png", "Taylors of Harrogate" %}
 
 You certainly can’t go wrong with this brand. Taylors of Harrogate’s been in the tea industry since 1886. A family-run business with more than a century’s worth of experience, Taylors knows good tea.
 
