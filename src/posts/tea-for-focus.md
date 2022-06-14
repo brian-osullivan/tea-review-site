@@ -1,29 +1,15 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.559 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Jun 14 2022 04:05:24 GMT-0700 (PDT)
-* Source doc: Tea for focus
------>
-
-
-
-# Best Energy Boosting Tea For Focus & Studying
+---
+title: 'Best Energy Boosting Tea For Focus & Studying'
+description: Check out our pick of the best teas for focus and concentration in 2022. We give you great options if you're looking for a caffeine boost, but also want to keep your focus. The teas we've selected are also a great way to relax and keep you focused on the task at hand.
+author: Andrew warner
+date: 2022-06-06
+category: review
+metaTitle: 'Our pick of the best teas for focus 2022 | Tea review site'
+image: black-tea.jpg
+image_alt: Best black tea
+---
+<!-- image -->
+{% image "black-tea.jpg", image_alt %}
 
 We’ve all been there: working tirelessly, late into the wee hours of the morning, trying to meet an important deadline for work or school. For many, these late night work sessions are fueled, at least in large part, by caffeine. For many, this means coffee or energy drinks like Red Bull or Monster. 
 
