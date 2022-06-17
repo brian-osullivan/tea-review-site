@@ -17,14 +17,14 @@ Chamomile tea is, by and large, one of the most common home remedies for insomni
 
 Unlike other types of tea, such as green tea or oolong, which are both derived from the _Camellia sinensis_ plant, chamomile tea is an herbal tea. Herbal teas consist of infusing hot water with various flowers, herbs or even fruits. Herbal teas like the ones made from chamomile flowers or hibiscus buds have long been a part of the human diet. 
 
-Experts estimate that the chamomile flower’s status as a home remedy for various ailments dates back to at _least _5,000 years ago. It’s probably got a much older history than that, though. It’s one of the oldest and most widely used herbal remedies known to man. Throughout history, herbalists have used it to treat inflammation, skin disorders, anxiety and more.
+Experts estimate that the chamomile flower’s status as a home remedy for various ailments dates back to at _least_ 5,000 years ago. It’s probably got a much older history than that, though. It’s one of the oldest and most widely used herbal remedies known to man. Throughout history, herbalists have used it to treat inflammation, skin disorders, anxiety and more.
 
 Not to mention, it tastes incredible. With its floral undertones, a warm mug of milky chamomile tea is perfect for winding down before bed. Here’s our guide to finding the right chamomile tea for you.
 
 
 ## Types of chamomile tea
 
-The chamomile plant is a member of the _Asteraceae _family, which also includes daisies and sunflowers. Its relationship to daisies shouldn’t be surprising. If you’ve ever come across a wild chamomile flower you may not have even recognized it for what it was. To the untrained eye, chamomile flowers are virtually indistinguishable from the average daisy, with their white petals and bright yellow center.
+The chamomile plant is a member of the _Asteraceae_ family, which also includes daisies and sunflowers. Its relationship to daisies shouldn’t be surprising. If you’ve ever come across a wild chamomile flower you may not have even recognized it for what it was. To the untrained eye, chamomile flowers are virtually indistinguishable from the average daisy, with their white petals and bright yellow center.
 
 These daisies-in-disguise grow all across Europe, Asia, and North Africa. Historically, it’s played a large role in the traditional medicines of ancient empires like Rome and Egypt. Thanks to its widespread nature, there are plenty of different subspecies of the chamomile plant, each one having its own unique and nuanced flavor. 
 
