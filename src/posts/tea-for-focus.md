@@ -102,6 +102,9 @@ _Here’s our pick of the best yerba mate teas for keeping you focused for work 
 
 ## How Tea Helps While Studying
 
+<!-- image -->
+{% image "study-and-tea.jpg", image_alt %}
+
 Different teas have different effects on the body, depending on whether or not they’re true teas (i.e., made from _Camellia sinensis _leaves) or herbal teas.
 
 Teas that are made from _Camellia sinensis_ are an excellent option for late night studying. Because they contain both caffeine and theanine (as well as a host of other antioxidants like polyphenols, catechins, specifically EGCG), these teas do an excellent job of helping you maintain focus, without getting overly stressed.
