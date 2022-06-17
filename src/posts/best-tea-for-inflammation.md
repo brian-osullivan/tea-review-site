@@ -91,6 +91,8 @@ _We recommend the following cinnamon teas for their anti-inflammatory properties
 
 ## Find The Best Anti-Inflammatory Tea For Your Needs
 
+{% image "soothing-tea.jpg", "" %}
+
 Different symptoms call for different types of tea.
 
 For instance, you likely won’t want to use green tea to treat stomach pain, as the bitter tannins _Camellia sinensis_ plant can actually exacerbate stomach inflammation and nausea. In the case of stomach pains and digestive issues, you’ll want to opt for ginger tea, which will help soothe any gastrointestinal discomfort. On the other hand, if you need a little something extra to fight off the pains of arthritis, green tea might be a better option.
@@ -142,6 +144,7 @@ On the other hand, [peppermint tea](https://www.walkerteareview.com/posts/best-p
 
 Additionally, tea brewed over ice may also be a good option for healing a sore throat. While hot tea is a cozy and warming option, hot drinks may further irritate the throat and make a sore throat worse. The cooling effects of iced tea can help calm throat pain, similar to how applying a pack of ice to your body helps with joint and muscle pain. That’s why we recommend sipping on an iced tea if you need to get over a sore throat.
 
+{% image "recovery-tea.jpg", "" %}
 
 ## How Does Tea Reduce Inflammation?
 
