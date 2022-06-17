@@ -26,18 +26,18 @@ If you’re looking for a tea that’ll keep you focused — whether you’ve go
 
 The best teas for focus will allow you to keep your mind concentrated on the task at hand, while also helping you remain calm and relaxed — maybe even a little bit cozy if you’re not too stressed out from the deadlines looming over you.
 
-_Camellia sinensis _is the plant used to produce tea. It naturally has a moderate level of caffeine that energizes and stimulates you.
+_Camellia sinensis_ is the plant used to produce tea. It naturally has a moderate level of caffeine that energizes and stimulates you.
 
 On the other hand, if you just need something to relieve your stress and keep you focused, herbal teas might be your best bet. _Camellia sinensis_-based teas will definitely keep you awake and focused, but if you’re sensitive to caffeine, herbal teas are a great option to relax you and keep you concentrated on the tasks you need to complete. Although these are caffeine-free varieties, rooibos, peppermint tea and ginger tea have a variety of other compounds and antioxidants in them that are sure to help you remain concentrated on your work. Additionally, the anti-inflammatory properties in these teas can help ease you into a more comfortable state of mind, allowing you to focus on what really matters: getting your work done.
 
 Here’s our selection of the best teas to help you power your way through the work you’ve got lined up. Get ready to grab yourself a cup of tea and get to work.
 
 
-### Green Tea
+### Best Green Teas For Focus
 
 Renowned for its powerful wakening properties (not to mention a host of other health benefits), green tea is a potent option for hard workers looking for a burst of energy. Whether you drink it in the morning or at the beginning of a long night, green tea might just be what you’re looking for.
 
-After white tea, green tea typically has the lowest caffeine content of the “true” teas derived from the leaves of the _Camellia sinensis _plant. This means you might have to drink a couple of cups before you really feel a boost in energy, but it’s still a powerful tea for uplifting and keeping you focused. When paired with other herbs like ginger or ginseng tea, green tea is one of the best options for improving your mental clarity. Plus, green tea lowers your blood pressure and cholesterol, improving blood flow and brain function altogether.
+After white tea, green tea typically has the lowest caffeine content of the “true” teas derived from the leaves of the _Camellia sinensis_ plant. This means you might have to drink a couple of cups before you really feel a boost in energy, but it’s still a powerful tea for uplifting and keeping you focused. When paired with other herbs like ginger or ginseng tea, green tea is one of the best options for improving your mental clarity. Plus, green tea lowers your blood pressure and cholesterol, improving blood flow and brain function altogether.
 
 One particularly potent option is matcha green tea. Matcha is a popular green tea with origins in East Asia. Because of the way it’s grown, matcha typically has a much higher caffeine content than other green teas, so it’s a great option if you’re planning on pulling an all-nighter. But it also has higher levels of L-theanine (often referred to more simply as theanine), an amino acid that’s also helpful in keeping you focused.
 
@@ -46,7 +46,7 @@ While too much caffeine can cause the jitters and make you a little bit anxious,
 _Here’s our pick of the best green teas for keeping you focused for work and study: [Jade Leaf Organic Matcha Green Tea](https://www.amazon.com/Jade-Leaf-Matcha-Green-Powder/dp/B00PFDH0IC/ref=sr_1_2_sspa?crid=10HLD5EJP1NT4&keywords=matcha+green+tea+powder&qid=1654872254&sprefix=matcha%2Caps%2C99&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRVZSQ0syU1ZMTlFNJmVuY3J5cHRlZElkPUEwMzA1NjQ2WDNPTUpENjhBMTRPJmVuY3J5cHRlZEFkSWQ9QTA3NjIxNDMyWkM2Q0xUWUpZSTVOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), [Tipson Organic Matcha Green Tea with Honey and Lemon](https://www.amazon.com/Tipson-Organic-Matcha-Green-Tea/dp/B07NYKCPJ8/ref=sr_1_7?crid=2W07QS7RXFLEJ&keywords=matcha+green+tea+powder+lemon&qid=1654872291&sprefix=matcha+green+tea+powder+lemon%2Caps%2C73&sr=8-7), [Uncle Lee’s Organic Green Tea](https://www.amazon.com/Uncle-Lees-Tea-Organic-100-Count/dp/B001E5E38K/ref=sr_1_13?crid=6EJGNR5O3K49&keywords=green+tea&qid=1654872343&sprefix=green+tea%2Caps%2C67&sr=8-13)_
 
 
-### Oolong Tea
+### Best Oolong Teas For Focus
 
 Like green tea, oolong is rich in both theanine and caffeine. These two chemical compounds are key to improving your mental focus without leading you to over-stress or develop slight anxiety, as coffee tends to do.
 
@@ -61,7 +61,7 @@ Higher-quality, whole leaf oolong is really the way to go. If you can’t get yo
 _Here’s our pick of the best oolong teas for keeping you focused for work and study: [FullChea Jin Xuan Milk Oolong Tea](https://www.amazon.com/FullChea-Taiwaness-Mountain-Delicate-Stabilizes/dp/B0851PG7PX/ref=sxin_25_ac_d_rm?ac_md=5-3-b29sb25nIHRlYSB0YWl3YW4%3D-ac_d_rm_rm_rm&content-id=amzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f%3Aamzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f&crid=1QITLS3KV8Z15&cv_ct_cx=oolong+tea&keywords=oolong+tea&pd_rd_i=B0851PG7PX&pd_rd_r=685687e2-b596-4ef7-b510-cc39619ce81c&pd_rd_w=6peac&pd_rd_wg=gSfQb&pf_rd_p=7de181be-756e-4582-93e5-e9bf36281b5f&pf_rd_r=ND3KEVE88DH12VFHY367&psc=1&qid=1654875692&sprefix=oolong+tea%2Caps%2C71&sr=1-4-7d9bfb42-6e38-4445-b604-42cab39e191b)_, [Xin Qing Tieguanyin Oolong Tea](https://www.amazon.com/dp/B09VBY7MMX/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B09VBY7MMX&pd_rd_w=fupIc&content-id=amzn1.sym.24b0b161-2d2e-40f8-8233-013eb186b34a&pf_rd_p=24b0b161-2d2e-40f8-8233-013eb186b34a&pf_rd_r=AWN1V7CJ4KD228ZWE8M9&pd_rd_wg=hTUDQ&pd_rd_r=e3becb78-c0f5-4b6e-a107-9f048080b5dc&s=grocery&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSDFaUUNUNkxTRlZGJmVuY3J5cHRlZElkPUEwNzg0MzUyMkFFUjExQjJLNDBDUCZlbmNyeXB0ZWRBZElkPUEwODI1MTEwMzhNWU9IUzc1WVMxQSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), [Teapigs Tung Ting Oolong](https://www.amazon.com/Teapigs-Tung-Ting-Oolong-pack/dp/B07JM1PYJW/ref=sr_1_4?crid=3ELCNRW85SOVO&keywords=teapigs+oolong&qid=1654875819&s=grocery&sprefix=teapigs+oolong%2Cgrocery%2C46&sr=1-4)
 
 
-### Black Tea
+### Best Black Teas For Focus
 
 Tea drinkers often swear by black tea as the best tea for focus. And they just might be onto something.
 
@@ -74,7 +74,7 @@ Masala chai, which consists of black tea infused with ginger and even turmeric m
 _Here’s our pick of the best black teas for keeping you focused for work and study: [Teamonk Assam Masala Chai Leaves](https://www.amazon.com/dp/B07XJMMFDT/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07XJMMFDT&pd_rd_w=Qja3L&content-id=amzn1.sym.24b0b161-2d2e-40f8-8233-013eb186b34a&pf_rd_p=24b0b161-2d2e-40f8-8233-013eb186b34a&pf_rd_r=Q1J81VTB2QTWC45E19SE&pd_rd_wg=WyGiE&pd_rd_r=fe5d4436-3151-46f9-8b7c-a405250c6c46&s=grocery&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOEIxUzQ3NFY1UjlXJmVuY3J5cHRlZElkPUEwODk1MzcwM0c2UklLR1E0WUhUTCZlbmNyeXB0ZWRBZElkPUEwOTU4NzA0MjZHNjNESklNQVoySiZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)_, _[Taylors of Harrogate Irish Breakfast](https://www.amazon.com/Taylors-Harrogate-Irish-Breakfast-Teabags/dp/B0007QMT7O/ref=sr_1_5_mod_primary_new?crid=1O4492OU3SFVG&keywords=irish+breakfast+tea&qid=1654876938&s=grocery&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=irish+bre%2Cgrocery%2C58&sr=1-5), [Davidson's Tea Yunnan Black](https://www.amazon.com/Davidsons-Tea-Yunnan-Black-Unwrapped/dp/B076SDHBDB/ref=sr_1_6?crid=37BGLPI6X8A1B&keywords=ayurvedic+black+tea&qid=1654877019&s=grocery&sprefix=ayurvedic+black+tea%2Cgrocery%2C40&sr=1-6)_
 
 
-### Peppermint Tea
+### Best Peppermint Teas For Focus
 
 If you need to stay focused but don’t necessarily want to take in any caffeine, peppermint tea could just be the right tea for you.
 
@@ -87,7 +87,7 @@ If you feel like you need a little bit of caffeine to keep you awake and focused
 _Here’s our pick of the best peppermint teas for keeping you focused for work and study: [Twinings of London Pure Peppermint](https://www.amazon.com/Twinings-London-Peppermint-Herbal-Count/dp/B009L6Q2YW/ref=sr_1_4_f3_0g_fs_mod_primary_alm?crid=2RY4FY3E7QNXT&keywords=peppermint+tea&qid=1654878028&s=grocery&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sprefix=peppermint+tea%2Cgrocery%2C60&sr=1-4), [Celestial Seasonings Peppermint Peak Black Tea](https://www.amazon.com/Celestial-Seasonings-Peppermint-Black-20Count/dp/B07RW85V49/ref=sr_1_4?crid=3CLR1BXDS0ZSC&keywords=peppermint+black+tea&qid=1654878063&s=grocery&sprefix=peppermint+black%2Cgrocery%2C49&sr=1-4), [Bigelow Peppermint Herbal Tea](https://www.amazon.com/Bigelow-Peppermint-Tea-Caffeine-Free-Individual/dp/B000GG5IZK/ref=sr_1_1_sspa?crid=PGP5W06Y8K7M&keywords=peppermint+tea&qid=1654878120&s=grocery&sprefix=peppermint%2Cgrocery%2C56&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOElNMUlWQklZSTdHJmVuY3J5cHRlZElkPUEwNTY0Njk3SEhJUU1CUjhXNTZCJmVuY3J5cHRlZEFkSWQ9QTAxNzE5NTMxSzlIQlgwNkhEUldUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)_
 
 
-### Yerba Mate
+### Best Yerba Mate Teas For Focus
 
 Another herbal tea, yerba mate is a popular green beverage that has its roots in South America.
 
