@@ -7,10 +7,10 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: 1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg
-image_alt: Tea Commandments
+image: orange-pekoe.jpg
+image_alt: orange pekoe
 ---
-
+{% image "orange-pekoe.jpg", image_alt "" %}
 
 When you’re first getting started with teas, you’re likely to come across the phrase “Orange Pekoe.”
 
