@@ -131,6 +131,8 @@ And that’s not to mention that herbal teas such as peppermint tea have been pr
 
 The lower caffeine levels in tea could also be a major advantage. Because you have to drink more tea to get the same effect you would from a cup of coffee, tea allows you to take in caffeine with far more precision than coffee does. This is particularly good if you’re sensitive to caffeine, as tea provides a couple of extra layers of defense from the headaches and anxiety that caffeine may cause.
 
+<!-- image -->
+{% image "tea-for-concentration.jpg", image_alt %}
 
 ## FAQs
 
