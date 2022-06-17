@@ -5,8 +5,8 @@ author: Andrew Warner
 date: 2022-06-06
 category: review
 metaTitle: 'Our pick of the best teas for focus 2022 | Tea review site'
-image: black-tea.jpg
-image_alt: Best black tea
+image: tea-for-focus-and-study.jpg
+image_alt: Best tea for focus and study
 ---
 <!-- image -->
 {% image "tea-for-focus-and-study.jpg", image_alt %}
