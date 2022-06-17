@@ -1,15 +1,18 @@
 ---
 title: 'Best Tasting Tea For Beginners & Non-Tea Drinkers'
 description: Best Tasting Tea For Beginners & Non-Tea Drinkers.
-author: Tea Lover
+author: Andrew Warner
 date: 2022-05-21
 category: how-to
 tags:
   - how to
   - learn about teas
-image: 1200px-Trilingual_inscription_of_Xerxes_Van_1973-768x476.jpg
-image_alt: Tea Commandments
+image: tea-collection-1.jpg
+image_alt: Tea Collection
 ---
+
+{% image "tea-collection-1.jpg", "" %}
+
 
 Can’t tell your oolong from your matcha from your masala chai? You’re in the right place. If you’re looking to refine your taste for different types of tea or hoping to [boost your health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/), we’ve got you covered with this comprehensive guide to teas and brewing methods.
 
@@ -76,6 +79,7 @@ There are so many different kinds of herbal tea that it would be impossible to m
 
 _Here are some herbal teas we recommend: [TAZO Passion Tea](https://www.amazon.com/TAZO-Bags-Herbal-Decaf-Count/dp/B01F7M89ZS/ref=sr_1_2_sspa?crid=2LT5K9QLG1EA&keywords=hibiscus+tea&qid=1652905640&rdc=1&s=grocery&sprefix=hibis,grocery,94&sr=1-2-spons&th=1), [Taylors of Harrogate Organic Peppermint](https://www.amazon.com/Taylors-Harrogate-Organic-Peppermint-Teabags/dp/B07BRBSVK4/ref=sr_1_1?crid=1SQ3UZIR1BMND&keywords=mint+tea&qid=1652905682&s=grocery&sprefix=mint,grocery,61&sr=1-1&th=1), [Buddha Teas Organic Lavender Tea](https://www.amazon.com/Organic-Lavender-Tea-Bleach-Free-Bags/dp/B00QQTKMLQ/ref=sr_1_4?crid=2QFD3SZJW4QIF&keywords=lavender+tea&qid=1652905713&s=grocery&sprefix=lavender,grocery,54&sr=1-4)_
 
+{% image "tea-collection-2.jpg", "" %}
 
 ## How To Start Drinking Tea in Three Easy Steps
 
@@ -110,6 +114,7 @@ All tea leaves will have a recommended temperature range, in which the hot water
 
 Likewise, you should try to be flexible with steep times and water type as well. Part of the fun of drinking tea is all the different ways you can drink it — that means there’s an infinite number of brewing techniques you can experiment with. If you like iced tea, try a different brewing technique than you might with hot tea. If you like matcha, you may want to invest in better brewing tech. The options are endless!
 
+{% image "tea-collection-3.jpg", "" %}
 
 ## What Tea Would I Like? Five Deciding Factors
 
@@ -140,6 +145,7 @@ Depending on how you feel about caffeine, you may want to avoid certain blends a
 
 This is a common debate among experienced coffee drinkers. Tea bags offer a degree of convenience that loose leaf doesn’t. On the other hand, loose leaf tea tends to be fresher and more vibrant in flavor. When you’re starting out, you may be tempted to go with tea bags, for the sake of convenience. However, tea infusers are a cheap and equally convenient option that make it easy to brew loose leaf tea. Not to mention, infusers are reusable, making them a more sustainable option than disposable tea bags.
 
+{% image "tea-collection-4.jpg", "" %}
 
 ## New Tea Drinkers FAQs
 
