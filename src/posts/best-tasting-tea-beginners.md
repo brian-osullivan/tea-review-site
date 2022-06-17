@@ -27,7 +27,7 @@ While there are hundreds — maybe even thousands — of different strains and 
 
 The difference in processing methods can have a profound impact on the color and flavor profile of your cup of tea. If tea producers leave the tea out to ferment completely, you’ll wind up with a malty and robust cup of black tea. On the other hand, foregoing the fermentation process entirely will yield a light, fruity cup of white tea.
 
-Tea (once again, excluding herbal teas) comes from the _Camellia sinensis _bush, grown mainly in warm, humid regions near the tropics. Once the tea leaves are harvested, there are a handful of different ways to dry and ferment the tea. Here are the five main varieties of tea a new tea drinker ought to know as they begin exploring the world of tea.
+Tea (once again, excluding herbal teas) comes from the _Camellia sinensis_ bush, grown mainly in warm, humid regions near the tropics. Once the tea leaves are harvested, there are a handful of different ways to dry and ferment the tea. Here are the five main varieties of tea a new tea drinker ought to know as they begin exploring the world of tea.
 
 
 
