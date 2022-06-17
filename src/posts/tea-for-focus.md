@@ -32,6 +32,7 @@ On the other hand, if you just need something to relieve your stress and keep yo
 
 Here’s our selection of the best teas to help you power your way through the work you’ve got lined up. Get ready to grab yourself a cup of tea and get to work.
 
+{% image "book-and-tea.jpg", image_alt %}
 
 ### Best Green Teas For Focus
 
