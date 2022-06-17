@@ -10,7 +10,7 @@ tags:
 image: orange-pekoe.jpg
 image_alt: orange pekoe
 ---
-{% image "orange-pekoe.jpg", image_alt "" %}
+{% image "orange-pekoe.jpg", "" %}
 
 When you’re first getting started with teas, you’re likely to come across the phrase “Orange Pekoe.”
 
@@ -59,6 +59,9 @@ Like all other teas, the terroir of the growing region can impact the overall fl
 
 All in all, though, Orange Pekoe is the prime black tea — if you find that you prefer black varieties to green tea or white tea, you may like Orange Pekoe best. While Orange Pekoe is best without any additives, you can also find it in particularly high-quality tea blends like English Breakfast tea. For the best flavor, we also recommend loose tea over tea bags, as tea bags tend to use lower quality, stale teas — loose leaf brands will ensure that you get the most bang for your buck.
 
+{% image "orange-pekoe-cup.jpg", "" %}
+
+
 
 ## Six Benefits of Orange Pekoe Tea
 
@@ -101,6 +104,8 @@ Yes, Orange Pekoe is a type of black tea. But not all black teas are Orange Peko
 
 
 ### Origin
+
+{% image "orange-pekoe-leaves.jpg", "" %}
 
 The Orange Pekoe grading system is typically used for teas of South Asian origin. We typically see Assam, Sri Lanka and Darjeeling tea labeled as Orange Pekoe. On the other hand, black teas from China don’t typically ascribe to this grading system. 
 
