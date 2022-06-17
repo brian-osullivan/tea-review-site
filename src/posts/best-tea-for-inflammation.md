@@ -22,6 +22,7 @@ Whether you’re dealing with a scratchy and painful sore throat or just want to
 
 Read on and we’ll help you find the right anti-inflammatory tea for your personal needs. 
 
+{% image "tea-muscle-pain.jpg", "" %}
 
 ## Five Best Anti-Inflammatory Teas
 
