@@ -7,11 +7,11 @@ category: how-to
 tags:
   - how to
   - learn about teas
-image: teacup.jpg
-image_alt: Teacup
+image: peppermint-tea.jpg
+image_alt: peppermint tea
 --- 
 
-{% image "peppermint-tea.jpg", image_alt %}
+{% image "peppermint-tea.jpg", "" %}
 
 There’s nothing quite like peppermint tea to keep you feeling cozy on a rainy day. Peppermint tea is an herbal tea that packs a serious punch. Its bright and vibrant flavor has a slight cooling effect that you can’t really get with other teas. While we often associate peppermint flavors with cold winter months, the cooling effect makes peppermint tea perfect for any time of year. 
 
