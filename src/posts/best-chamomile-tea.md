@@ -5,13 +5,13 @@ author: Andrew Warner
 date: 2022-03-20
 category: how-to
 tags:
-  - how to
+  - review
   - learn about teas
 image: chamomile-tea.jpg
 image_alt: Best chamomile teas in 2022
 ---
 <!-- image -->
-{% image "chamomile-tea.jpg", image_alt %}
+{% image "chamomile-tea.jpg", "" %}
 
 Chamomile tea is, by and large, one of the most common home remedies for insomnia. The benefits of drinking chamomile tea, however, go a lot further than just that.
 
@@ -53,6 +53,7 @@ Way back in Ancient Egypt, chamomile played a huge role in traditional medicine.
 
 Even today, chamomile is an important crop in Egypt, where it’s grown all along the Nile River Valley. Like German chamomile, this flower has relaxing properties that help ease anxieties. It has an earthier and more mild flavor than Roman and German chamomile varieties.
 
+{% image "chamomile-tea-2.jpg", "" %}
 
 ## The health benefits of chamomile tea
 
@@ -81,6 +82,7 @@ German chamomile tends to be the variety that most people are familiar with. If 
 
 One important thing to keep in mind when selecting chamomile teas: Roman chamomile in particular may be harmful to pregnant women. Roman chamomile has chemical compounds that can induce a miscarriage, meaning that pregnant individuals ought to avoid this variety altogether.
 
+{% image "chamomile-tea-3.jpg", "" %}
 
 ## Best chamomile teas
 
@@ -126,6 +128,7 @@ If you need something that will surely leave you sleeping like a baby, this cham
 
 Lavender has slightly stronger sedative properties than chamomile. When you blend the two together, you’ve got a really powerful sleep potion. This is a great option for winding down after a stressful day at work.
 
+{% image "chamomile-tea-4.jpg", "" %}
 
 ## Frequently asked questions
 
