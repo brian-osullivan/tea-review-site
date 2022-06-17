@@ -93,7 +93,7 @@ _We recommend the following cinnamon teas for their anti-inflammatory properties
 
 Different symptoms call for different types of tea.
 
-For instance, you likely won’t want to use green tea to treat stomach pain, as the bitter tannins _Camellia sinensis _plant can actually exacerbate stomach inflammation and nausea. In the case of stomach pains and digestive issues, you’ll want to opt for ginger tea, which will help soothe any gastrointestinal discomfort. On the other hand, if you need a little something extra to fight off the pains of arthritis, green tea might be a better option.
+For instance, you likely won’t want to use green tea to treat stomach pain, as the bitter tannins _Camellia sinensis_ plant can actually exacerbate stomach inflammation and nausea. In the case of stomach pains and digestive issues, you’ll want to opt for ginger tea, which will help soothe any gastrointestinal discomfort. On the other hand, if you need a little something extra to fight off the pains of arthritis, green tea might be a better option.
 
 
 ### Stomach Issues
