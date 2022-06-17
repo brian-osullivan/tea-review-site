@@ -23,7 +23,7 @@ So just what _is_ Orange Pekoe? In this blog post, we’ll answer that very ques
 
 While the name Orange Pekoe tea evokes imagery of citrusy sweet tea leaves, the name actually refers to a common tea grading scale for South Asian black teas.
 
-Orange Pekoe refers to how the tea leaves are plucked from the _Camellia sinensis _plant. More specifically, it tells us when and where they’re plucked. When black tea leaves are harvested, the age of the leaves and time of the season can have a great impact on the overall flavor of the final product. Orange Pekoe harvesters pluck the youngest leaves possible to ensure a smooth and robust final product. 
+Orange Pekoe refers to how the tea leaves are plucked from the _Camellia sinensis_ plant. More specifically, it tells us when and where they’re plucked. When black tea leaves are harvested, the age of the leaves and time of the season can have a great impact on the overall flavor of the final product. Orange Pekoe harvesters pluck the youngest leaves possible to ensure a smooth and robust final product. 
 
 The term “Pekoe” likely comes from this aspect of the harvesting process. Younger tea leaves have fine white fibers — almost like peach fuzz — on their surface. “Pekoe” comes from the Chinese word “peh-ho,” meaning “white down.”
 
@@ -31,7 +31,7 @@ The “Orange” half of the name is most commonly attributed to the Dutch East 
 
 Today, the Orange Pekoe grading system has stuck with us. In spite of its Dutch and Chinese etymologies, this tea is neither from the Netherlands nor from China. Instead, most Orange Pekoes are grown in Assam, Sri Lanka and Darjeeling. Orange Pekoe tea leaves can be graded into further categories, with Orange Pekoe being the lowest and “Finest Tippy Golden Flowery Orange Pekoe” being the highest. Since that last one is quite a mouthful, we typically just use the acronyms OP and FTGFOP.
 
-Higher quality Orange Pekoes will include more of the _Camellia sinensis _plant. For example, Flowery Orange Pekoe includes the buds as well as the first leaves. Orange Pekoes can also be divided into whole leaf and broken leaf categories — broken Orange Pekoe is a slightly lower quality option.
+Higher quality Orange Pekoes will include more of the _Camellia sinensis_ plant. For example, Flowery Orange Pekoe includes the buds as well as the first leaves. Orange Pekoes can also be divided into whole leaf and broken leaf categories — broken Orange Pekoe is a slightly lower quality option.
 
 Orange Pekoe teas are contrasted with other varieties of black tea in their quality. While they may still be black tea in and of their own right, Orange Pekoe tea leaves yield a much higher quality brew than most other black tea leaves on the market. 
 
