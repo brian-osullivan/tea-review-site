@@ -36,6 +36,7 @@ These exact results haven’t been replicated in humans. Still, there are other 
 
 Menthol is the chemical compound that gives peppermint its characteristic cooling aroma and icy hot flavor profile. This compound appears to enhance the respiratory process as well. Inhaling the menthol in peppermint opens up the nostrils, improving their sensitivity to airflow. This can help individuals who are struggling to breathe do so with ease. Individuals with a stuffy nose from allergies or illness may find that peppermint helps them breathe better. This is why menthol-infused treatments like Vicks VapoRub are so successful at clearing up congestion.
 
+{% image "peppermint-tea-2.jpg", "" %}
 
 ## Peppermint tea side effects
 
@@ -48,6 +49,7 @@ Additionally, individuals who take certain medications should avoid peppermint. 
 
 All in all, though, peppermint tea is an extremely safe supplement to any diet. For most people, it’s extremely difficult to overdo it. If you’re concerned about potentially experiencing adverse side effects—either because of one of the above side effects, or for other reasons—it’s best to talk to your doctor first before incorporating it into your lineup of teas.
 
+{% image "peppermint-tea-3.jpg", "" %}
 
 ## Our pick of the best peppermint teas 2022
 
@@ -99,6 +101,7 @@ Last but not least is Teamonk’s peppermint green tea. Unlike the other options
 
 Like peppermint, green tea also has several health benefits. It’s especially good for things like weight loss and improving digestive health. By incorporating the two together, this tea is the perfect digestif. Customers also note that it’s a great option for iced tea lovers. If you need a refreshing summer tea, this may be the best option on our list.
 
+{% image "peppermint-tea-4.jpg", "" %}
 
 ## Frequently Asked Questions
 
