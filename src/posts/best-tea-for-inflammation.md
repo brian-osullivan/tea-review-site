@@ -8,7 +8,7 @@ image: mixed-teas.jpg
 image_alt: Mixed teas
 ---
 <!-- image -->
-{% image "black-tea.jpg", "Black teas" %}
+{% image "mixed-teas.jpg", "" %}
 
 ## Best Tea for Inflammation & Muscle Pain
 
