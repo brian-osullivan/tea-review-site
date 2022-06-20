@@ -4,7 +4,7 @@ description: Check out our pick of the best black teas in 2022. We review Indian
 author: Andrew warner
 date: 2022-03-02
 category: review
-metaTitle: 'Our pick of the best black teas 2022 | Tea review site'
+metaTitle: 'Our pick of the best black teas 2022'
 image: black-tea.jpg
 image_alt: Best black tea
 ---

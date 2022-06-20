@@ -2,6 +2,7 @@
 title: 'The 5 Best Anti-Inflammatory Teas'
 description: When you’re looking for the right tea to soothe your inflammation, you’ll want to do your research first. Some teas are significantly better than others when it comes to dealing with inflammation and muscle pain. We wrap up 5 of the best.
 author: Andrew Warner
+metaTitle: Our pick of the 5 best anti-inflammatory teas
 date: 2022-06-06
 category: review
 image: mixed-teas.jpg
