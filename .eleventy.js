@@ -41,7 +41,7 @@ const isUrl = (str) => {
       class: 'object-cover rounded',
     })
 
-    return `<figure>${markup}<figcaption>${alt}</figcaption></figure>`
+    return `<figure>${markup}</figure>`
   };
 
   // Image shortcode for post cover images
