@@ -6,7 +6,10 @@
     <!-- header -->
     <header class="mx-auto text-lg max-w-prose">
       <h1 class="mt-2 mb-8 text-5xl font-extrabold leading-10 tracking-tight text-center text-gray-900 lg:text-6xl">{{ title }}</h1>
-      <p class="text-base text-gray-500">By {{ author }}</p>
+      <div class="not-prose">
+        <p class="text-base text-gray-500">By {{ author }}</p>
+        <p class="mt-2 text-base text-gray-500">{{ author_bio }}</p>
+      </div>
     </header>
 
     <div class="prose-a:text-blue-500 prose-a:visited:text-purple-600">
