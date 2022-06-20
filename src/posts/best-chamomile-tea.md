@@ -5,26 +5,26 @@ author: Andrew Warner
 date: 2022-03-20
 category: how-to
 tags:
-  - how to
+  - review
   - learn about teas
 image: chamomile-tea.jpg
 image_alt: Best chamomile teas in 2022
 ---
 <!-- image -->
-{% image "chamomile-tea.jpg", image_alt %}
+{% image "chamomile-tea.jpg", "" %}
 
 Chamomile tea is, by and large, one of the most common home remedies for insomnia. The benefits of drinking chamomile tea, however, go a lot further than just that.
 
 Unlike other types of tea, such as green tea or oolong, which are both derived from the _Camellia sinensis_ plant, chamomile tea is an herbal tea. Herbal teas consist of infusing hot water with various flowers, herbs or even fruits. Herbal teas like the ones made from chamomile flowers or hibiscus buds have long been a part of the human diet. 
 
-Experts estimate that the chamomile flower’s status as a home remedy for various ailments dates back to at _least _5,000 years ago. It’s probably got a much older history than that, though. It’s one of the oldest and most widely used herbal remedies known to man. Throughout history, herbalists have used it to treat inflammation, skin disorders, anxiety and more.
+Experts estimate that the chamomile flower’s status as a home remedy for various ailments dates back to at _least_ 5,000 years ago. It’s probably got a much older history than that, though. It’s one of the oldest and most widely used herbal remedies known to man. Throughout history, herbalists have used it to treat inflammation, skin disorders, anxiety and more.
 
 Not to mention, it tastes incredible. With its floral undertones, a warm mug of milky chamomile tea is perfect for winding down before bed. Here’s our guide to finding the right chamomile tea for you.
 
 
 ## Types of chamomile tea
 
-The chamomile plant is a member of the _Asteraceae _family, which also includes daisies and sunflowers. Its relationship to daisies shouldn’t be surprising. If you’ve ever come across a wild chamomile flower you may not have even recognized it for what it was. To the untrained eye, chamomile flowers are virtually indistinguishable from the average daisy, with their white petals and bright yellow center.
+The chamomile plant is a member of the _Asteraceae_ family, which also includes daisies and sunflowers. Its relationship to daisies shouldn’t be surprising. If you’ve ever come across a wild chamomile flower you may not have even recognized it for what it was. To the untrained eye, chamomile flowers are virtually indistinguishable from the average daisy, with their white petals and bright yellow center.
 
 These daisies-in-disguise grow all across Europe, Asia, and North Africa. Historically, it’s played a large role in the traditional medicines of ancient empires like Rome and Egypt. Thanks to its widespread nature, there are plenty of different subspecies of the chamomile plant, each one having its own unique and nuanced flavor. 
 
@@ -53,6 +53,7 @@ Way back in Ancient Egypt, chamomile played a huge role in traditional medicine.
 
 Even today, chamomile is an important crop in Egypt, where it’s grown all along the Nile River Valley. Like German chamomile, this flower has relaxing properties that help ease anxieties. It has an earthier and more mild flavor than Roman and German chamomile varieties.
 
+{% image "chamomile-tea-2.jpg", "" %}
 
 ## The health benefits of chamomile tea
 
@@ -81,6 +82,7 @@ German chamomile tends to be the variety that most people are familiar with. If 
 
 One important thing to keep in mind when selecting chamomile teas: Roman chamomile in particular may be harmful to pregnant women. Roman chamomile has chemical compounds that can induce a miscarriage, meaning that pregnant individuals ought to avoid this variety altogether.
 
+{% image "chamomile-tea-3.jpg", "" %}
 
 ## Best chamomile teas
 
@@ -126,6 +128,7 @@ If you need something that will surely leave you sleeping like a baby, this cham
 
 Lavender has slightly stronger sedative properties than chamomile. When you blend the two together, you’ve got a really powerful sleep potion. This is a great option for winding down after a stressful day at work.
 
+{% image "chamomile-tea-4.jpg", "" %}
 
 ## Frequently asked questions
 

@@ -9,7 +9,7 @@ image: black-tea.jpg
 image_alt: Best black tea
 ---
 <!-- image -->
-{% image "black-tea.jpg", image_alt %}
+{% image "black-tea.jpg", "" %}
 
 ## What is black tea?
 
@@ -58,6 +58,7 @@ While single-origin teas are often of slightly higher quality, black tea blends 
 
 Sometimes, black tea blends consist of additional spices or flavoring additives — think things like cinnamon, citrus peel, ginger, etc. These additives give these tea blends a flavor that you can’t get with plain black tea — for example, bergamot essential oil adds a citrusy flavor to Earl Grey, while ginger and cardamom add a warm, spicy dimension to masala chai. You can also combine different teas and spices in your kitchen to prepare your own blends if you’re feeling experimental enough to try something new.
 
+{% image "black-tea-2.jpg", "" %}
 
 ## Bagged vs. Loose leaf
 
@@ -85,6 +86,7 @@ Brewing times vary from tea to tea. Darjeeling, for example, requires a brief st
 
 Black tea can also make for a good iced tea. Just double the amount of tea and brew it for a little bit longer, so that it’s a bit more concentrated. Then dilute your concentration with cold water and chill overnight. If you like sweet iced tea, you’ll want to add the desired amount of sugar before chilling the tea, otherwise it may not dissolve properly. Alternatively, you can add a simple syrup after chilling your iced tea overnight — however, this may weaken the overall flavor of the tea a bit.
 
+{% image "black-tea-3.jpg", "" %}
 
 ## Best black tea brands
 
@@ -167,6 +169,7 @@ Do you like the taste of tea but don’t want to be up all night? If you’re tr
 
 There is nothing better than a nice swig of iced tea on a hot summer day. For something refreshing and cool, we like The Republic of Tea’s ginger and peach infused black tea. This tea is great on its own over a glass of ice, but it’s even better with a light squeeze of lemon juice and a dash of sugar for the ultimate summer refresher. 
 
+{% image "black-tea-4.jpg", "" %}
 
 ## Conclusion
 

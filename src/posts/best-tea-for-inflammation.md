@@ -8,13 +8,13 @@ image: mixed-teas.jpg
 image_alt: Mixed teas
 ---
 <!-- image -->
-{% image "black-tea.jpg", "Black teas" %}
+{% image "mixed-teas.jpg", "" %}
 
 ## Best Tea for Inflammation & Muscle Pain
 
 There’s a pretty good reason tea is one of the most popular home remedies for ailments like a sore throat or muscle pain: it works!
 
-Of course, you can’t just use _any _tea. While many teas have anti-inflammatory properties of some sort, not all are created equally. When you’re looking for the right tea to soothe your inflammation, you’ll want to do your research first. Some teas are significantly better than others when it comes to dealing with inflammation and muscle pain. 
+Of course, you can’t just use _any_ tea. While many teas have anti-inflammatory properties of some sort, not all are created equally. When you’re looking for the right tea to soothe your inflammation, you’ll want to do your research first. Some teas are significantly better than others when it comes to dealing with inflammation and muscle pain. 
 
 For example, herbal teas like chamomile and cinnamon tea are excellent options for those looking to ease inflammation. When it comes to more traditional teas derived from _Camellia sinensis_, the processing method may impact the strength of a tea’s anti-inflammatory properties — green teas reign supreme on that front.
 
@@ -22,6 +22,7 @@ Whether you’re dealing with a scratchy and painful sore throat or just want to
 
 Read on and we’ll help you find the right anti-inflammatory tea for your personal needs. 
 
+{% image "tea-muscle-pain.jpg", "" %}
 
 ## Five Best Anti-Inflammatory Teas
 
@@ -61,7 +62,7 @@ Theaflavin is also a great antioxidant for reducing muscle soreness. If you have
 
 Masala chai blends are a particularly good option for fighting inflammation. This is because masala chai is often infused with ginger, cinnamon, and even turmeric. These added spices also have anti-inflammatory effects.The presence of caffeine in black tea makes it a good alternative to chamomile for anti-inflammatory purposes if you also need something to keep you alert for the day.
 
-_We recommend the following [black teas](https://www.walkerteareview.com/posts/best-black-teas/) for their anti-inflammatory properties: _[Twinings of London English Breakfast Black Tea](https://www.amazon.com/Twinings-London-English-Breakfast-Black/dp/B001GM60LE/ref=sr_1_12?crid=15FHD51HUUR54&keywords=black%2Btea%2Bfor%2Binflammation&qid=1654275830&sprefix=black%2Caps%2C53&sr=8-12&th=1), [Blue Lotus Chai Traditional Masala Chai](https://www.amazon.com/Blue-Lotus-Chai-Traditional-Steeping/dp/B0049K99RW/ref=sr_1_2?keywords=masala%2Bchain&qid=1654275862&sr=8-2&th=1), [Ahmad Tea English Tea No.1](https://www.amazon.com/Ahmad-Tea-English-Tagged-Teabags/dp/B00GRS0GFI/ref=sr_1_15?crid=1K3FCSE58XJ1X&keywords=black+tea&qid=1654275997&sprefix=black+tea%2Caps%2C69&sr=8-15)
+_We recommend the following [black teas](https://www.walkerteareview.com/posts/best-black-teas/) for their anti-inflammatory properties:_ [Twinings of London English Breakfast Black Tea](https://www.amazon.com/Twinings-London-English-Breakfast-Black/dp/B001GM60LE/ref=sr_1_12?crid=15FHD51HUUR54&keywords=black%2Btea%2Bfor%2Binflammation&qid=1654275830&sprefix=black%2Caps%2C53&sr=8-12&th=1), [Blue Lotus Chai Traditional Masala Chai](https://www.amazon.com/Blue-Lotus-Chai-Traditional-Steeping/dp/B0049K99RW/ref=sr_1_2?keywords=masala%2Bchain&qid=1654275862&sr=8-2&th=1), [Ahmad Tea English Tea No.1](https://www.amazon.com/Ahmad-Tea-English-Tagged-Teabags/dp/B00GRS0GFI/ref=sr_1_15?crid=1K3FCSE58XJ1X&keywords=black+tea&qid=1654275997&sprefix=black+tea%2Caps%2C69&sr=8-15)
 
 
 
@@ -73,7 +74,7 @@ Like traditional teas, ginger is [packed with antioxidants and anti-inflammatory
 
 Not only is ginger good for easing stomach issues, it’s also great at easing joint pain. It’s a very popular home remedy for some of the pain associated with rheumatoid arthritis. Combined with a sweetener like honey, ginger tea has a citrusy, spicy-sweet flavor profile that’s exceptionally calming as well. It’s the perfect cup of tea to cozy up with while fighting off inflammation and other painful issues.
 
-_We recommend the following ginger teas for their anti-inflammatory properties: _[Pukka Three Ginger](https://www.amazon.com/Pukka-Ginger-Organic-Galangal-Turmeric/dp/B07CCW93W7/ref=sr_1_2_sspa?crid=1DNRECX69DE2K&keywords=ginger+tea&qid=1654276993&rdc=1&sprefix=ginger+tea%2Caps%2C65&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1Tk5NMUo1Ulk2QkYmZW5jcnlwdGVkSWQ9QTA0ODA2NzczMFdVUFRVT0tRNjgxJmVuY3J5cHRlZEFkSWQ9QTAzNzIxNjEyWE1CVEY0N0tEUUhYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), [Haio Ginger Tea With Honey](https://www.amazon.com/Ginger-Refresh-Korean-Herbal-Delight/dp/B084VCLBSG/ref=sxin_14_ac_d_rm?ac_md=3-3-Z2luZ2VyIHRlYSB3aXRoIGhvbmV5-ac_d_rm_rm_rm&content-id=amzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f%3Aamzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f&crid=6CXVS9PE2FE1&cv_ct_cx=ginger+tea&keywords=ginger+tea&pd_rd_i=B084VCLBSG&pd_rd_r=cc2226de-ff85-4483-8a98-04740624b4dc&pd_rd_w=Menvd&pd_rd_wg=FD9Pq&pf_rd_p=7de181be-756e-4582-93e5-e9bf36281b5f&pf_rd_r=6GJJ824RJJ25HHRP4THQ&psc=1&qid=1654277035&sprefix=ginger+tea%2Caps%2C58&sr=1-4-7d9bfb42-6e38-4445-b604-42cab39e191b), [Bigelow Lemon Ginger plus Probiotics Herbal Tea](https://www.amazon.com/Bigelow-Tea-Ginger-18-Count-Total/dp/B002XWSNCA/ref=sxin_14_ac_d_rm?ac_md=2-2-Z2luZ2VyIGxlbW9uIHRlYQ%3D%3D-ac_d_rm_rm_rm&content-id=amzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f%3Aamzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f&crid=6CXVS9PE2FE1&cv_ct_cx=ginger%2Btea&keywords=ginger%2Btea&pd_rd_i=B002XWSNCA&pd_rd_r=7281902c-9691-4848-a0c1-fae65cbd4ab3&pd_rd_w=LjACr&pd_rd_wg=S1mfC&pf_rd_p=7de181be-756e-4582-93e5-e9bf36281b5f&pf_rd_r=MBZZ99M6MX7ZZC364FMS&qid=1654277071&sprefix=ginger%2Btea%2Caps%2C58&sr=1-3-7d9bfb42-6e38-4445-b604-42cab39e191b&th=1)
+_We recommend the following ginger teas for their anti-inflammatory properties:_ [Pukka Three Ginger](https://www.amazon.com/Pukka-Ginger-Organic-Galangal-Turmeric/dp/B07CCW93W7/ref=sr_1_2_sspa?crid=1DNRECX69DE2K&keywords=ginger+tea&qid=1654276993&rdc=1&sprefix=ginger+tea%2Caps%2C65&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1Tk5NMUo1Ulk2QkYmZW5jcnlwdGVkSWQ9QTA0ODA2NzczMFdVUFRVT0tRNjgxJmVuY3J5cHRlZEFkSWQ9QTAzNzIxNjEyWE1CVEY0N0tEUUhYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), [Haio Ginger Tea With Honey](https://www.amazon.com/Ginger-Refresh-Korean-Herbal-Delight/dp/B084VCLBSG/ref=sxin_14_ac_d_rm?ac_md=3-3-Z2luZ2VyIHRlYSB3aXRoIGhvbmV5-ac_d_rm_rm_rm&content-id=amzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f%3Aamzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f&crid=6CXVS9PE2FE1&cv_ct_cx=ginger+tea&keywords=ginger+tea&pd_rd_i=B084VCLBSG&pd_rd_r=cc2226de-ff85-4483-8a98-04740624b4dc&pd_rd_w=Menvd&pd_rd_wg=FD9Pq&pf_rd_p=7de181be-756e-4582-93e5-e9bf36281b5f&pf_rd_r=6GJJ824RJJ25HHRP4THQ&psc=1&qid=1654277035&sprefix=ginger+tea%2Caps%2C58&sr=1-4-7d9bfb42-6e38-4445-b604-42cab39e191b), [Bigelow Lemon Ginger plus Probiotics Herbal Tea](https://www.amazon.com/Bigelow-Tea-Ginger-18-Count-Total/dp/B002XWSNCA/ref=sxin_14_ac_d_rm?ac_md=2-2-Z2luZ2VyIGxlbW9uIHRlYQ%3D%3D-ac_d_rm_rm_rm&content-id=amzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f%3Aamzn1.sym.7de181be-756e-4582-93e5-e9bf36281b5f&crid=6CXVS9PE2FE1&cv_ct_cx=ginger%2Btea&keywords=ginger%2Btea&pd_rd_i=B002XWSNCA&pd_rd_r=7281902c-9691-4848-a0c1-fae65cbd4ab3&pd_rd_w=LjACr&pd_rd_wg=S1mfC&pf_rd_p=7de181be-756e-4582-93e5-e9bf36281b5f&pf_rd_r=MBZZ99M6MX7ZZC364FMS&qid=1654277071&sprefix=ginger%2Btea%2Caps%2C58&sr=1-3-7d9bfb42-6e38-4445-b604-42cab39e191b&th=1)
 
 
 
@@ -85,14 +86,16 @@ Cinnamon tea helps both with acute inflammation — for example, muscle soreness
 
 When combined with other teas — cinnamon is a particularly common addition to black tea and ginger tea — you can get double the anti-inflammatory effects. This is why we recommend sipping on a cup of masala chai or cinnamon rooibos: to get the anti-inflammatory effects of both the tea leaves and the other spices in the blend.
 
-_We recommend the following cinnamon teas for their anti-inflammatory properties: _[Harney & Sons Hot Cinnamon Spice Tea Tin](https://www.amazon.com/Harney-Sons-Hot-Cinnamon-Spice/dp/B0065JA1IQ/ref=sr_1_4?crid=3GGIEEWLQ3MKU&keywords=cinnamon%2Btea&qid=1654277845&rdc=1&s=grocery&sprefix=cinnamon%2Cgrocery%2C44&sr=1-4&th=1), [Pukka Organic Three Cinnamon Tea](https://www.amazon.com/Pukka-Three-Cinnamon-Organic-Herbal/dp/B00RBABLI2/ref=sr_1_1_sspa?crid=3GGIEEWLQ3MKU&keywords=cinnamon+tea&qid=1654277875&rdc=1&s=grocery&sprefix=cinnamon%2Cgrocery%2C44&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTlpNMUlPRFhINDNPJmVuY3J5cHRlZElkPUEwMzg2ODg5MzhYN1U5VzUxTjZBMyZlbmNyeXB0ZWRBZElkPUEwNTA5OTQzMlVNM1lUMFJQRUYxNyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), [Celestial Seasonings Herbal Cinnamon Apple Spice](https://www.amazon.com/Celestial-Seasonings-Herbal-Cinnamon-Apple/dp/B000E65OII/ref=sr_1_9?keywords=cinnamon%2Btea&qid=1654277913&s=grocery&sr=1-9&th=1)
+_We recommend the following cinnamon teas for their anti-inflammatory properties:_ [Harney & Sons Hot Cinnamon Spice Tea Tin](https://www.amazon.com/Harney-Sons-Hot-Cinnamon-Spice/dp/B0065JA1IQ/ref=sr_1_4?crid=3GGIEEWLQ3MKU&keywords=cinnamon%2Btea&qid=1654277845&rdc=1&s=grocery&sprefix=cinnamon%2Cgrocery%2C44&sr=1-4&th=1), [Pukka Organic Three Cinnamon Tea](https://www.amazon.com/Pukka-Three-Cinnamon-Organic-Herbal/dp/B00RBABLI2/ref=sr_1_1_sspa?crid=3GGIEEWLQ3MKU&keywords=cinnamon+tea&qid=1654277875&rdc=1&s=grocery&sprefix=cinnamon%2Cgrocery%2C44&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTlpNMUlPRFhINDNPJmVuY3J5cHRlZElkPUEwMzg2ODg5MzhYN1U5VzUxTjZBMyZlbmNyeXB0ZWRBZElkPUEwNTA5OTQzMlVNM1lUMFJQRUYxNyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), [Celestial Seasonings Herbal Cinnamon Apple Spice](https://www.amazon.com/Celestial-Seasonings-Herbal-Cinnamon-Apple/dp/B000E65OII/ref=sr_1_9?keywords=cinnamon%2Btea&qid=1654277913&s=grocery&sr=1-9&th=1)
 
 
 ## Find The Best Anti-Inflammatory Tea For Your Needs
 
+{% image "soothing-tea.jpg", "" %}
+
 Different symptoms call for different types of tea.
 
-For instance, you likely won’t want to use green tea to treat stomach pain, as the bitter tannins _Camellia sinensis _plant can actually exacerbate stomach inflammation and nausea. In the case of stomach pains and digestive issues, you’ll want to opt for ginger tea, which will help soothe any gastrointestinal discomfort. On the other hand, if you need a little something extra to fight off the pains of arthritis, green tea might be a better option.
+For instance, you likely won’t want to use green tea to treat stomach pain, as the bitter tannins _Camellia sinensis_ plant can actually exacerbate stomach inflammation and nausea. In the case of stomach pains and digestive issues, you’ll want to opt for ginger tea, which will help soothe any gastrointestinal discomfort. On the other hand, if you need a little something extra to fight off the pains of arthritis, green tea might be a better option.
 
 
 ### Stomach Issues
@@ -141,10 +144,11 @@ On the other hand, [peppermint tea](https://www.walkerteareview.com/posts/best-p
 
 Additionally, tea brewed over ice may also be a good option for healing a sore throat. While hot tea is a cozy and warming option, hot drinks may further irritate the throat and make a sore throat worse. The cooling effects of iced tea can help calm throat pain, similar to how applying a pack of ice to your body helps with joint and muscle pain. That’s why we recommend sipping on an iced tea if you need to get over a sore throat.
 
+{% image "recovery-tea.jpg", "" %}
 
 ## How Does Tea Reduce Inflammation?
 
-_Camellia sinensis _has several different compounds that aid in fighting inflammation and reducing pain.
+_Camellia sinensis_ has several different compounds that aid in fighting inflammation and reducing pain.
 
 Fresh tea leaves have several anti-inflammatory chemical compounds of their own. However, the process of drying and aging tea to create green, black or oolong tea, facilitates further development of these chemical compounds. Enzymes present in the fresh tea leaves oxidate the tea leaves, deepening the flavor and changing the chemical makeup of the tea.
 
