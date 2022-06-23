@@ -1,10 +1,11 @@
 ---
-title: 'Our pick of the best black teas 2022'
-description: Check out our pick of the best black teas in 2022. We review Indian, Chinese, Sri Lankan, and blends like English and Irish breakfast. This is one of the best black teas on the market. It's got a great flavor and great balance of black and green tea. It's also great on its own and makes a great base for iced tea.
-author: Andrew warner
+title: 'Our pick of the best black teas for 2022'
+description: Check out our pick of the best black teas in 2022. We review Indian, Chinese, Sri Lankan, and blends like English and Irish breakfast. Read our reviews of the best black teas on the market. 
+author: Andrew Warner
+author_bio:
 date: 2022-03-02
 category: review
-metaTitle: 'Our pick of the best black teas 2022'
+metaTitle: 'Our pick of the best black teas 2022 | Tea review experts'
 image: black-tea.jpg
 image_alt: Best black tea
 ---
