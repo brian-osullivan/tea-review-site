@@ -1,5 +1,6 @@
 ---
 title: 'Best English breakfast teas 2022'
+metaTitle: 'Our pick of the 13 best English breakfast teas for 2022 | Tea review experts'
 description: This is a great choice for anyone looking for a black tea that's versatile and affordable. It's also a great option for people who are new to tea.
 author: Andrew Warner
 date: 2022-01-20
