@@ -1,6 +1,7 @@
 ---
 title: 'Our pick of the best chamomile teas 2022'
-description: Our pick of the best chamomile teas in 2022. We review loose-leaf, bags, organic, tea pods, and more.
+metaTitle: title: 'Our pick of the 6 best chamomile teas 2022 | Tea review experts'
+description: Our pick of the best chamomile teas in 2022. We review loose-leaf, bags, organic, tea pods, blends, and more. Read our expert review now.
 author: Andrew Warner
 date: 2022-03-20
 category: how-to
