@@ -1,6 +1,7 @@
 ---
-title: 'Best Tasting Tea For Beginners & Non-Tea Drinkers'
-description: Best Tasting Tea For Beginners & Non-Tea Drinkers.
+title: 'Best Tasting Teas For Beginners & Non-Tea Drinkers'
+metaTitle: 'Read Our Pick Of The 5 Best Tasting Teas For Beginners & Non-Tea Drinkers | Tea Review Site'
+description: 'Our pick of the best tasting teas for beginners & non-tea drinkers. We'll get you started on your journey to becoming a tea aficionado.'
 author: Andrew Warner
 date: 2022-05-21
 category: how-to
