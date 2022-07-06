@@ -21,4 +21,4 @@ Contributors to this month’s ATB blog carnival:
 - Teaspoonsandpetals: [NYC sous chef Melanie Franks](http://teaspoonsandpetals.typepad.com/teaspoons-petals/2010/08/tea-talk-nyc-sous-chef-melanie-franks.html)
 - Walker Tea Review: [Robert Fortune - Why Real Men Drink Tea](https://web.archive.org/web/20210307020224/http://walkerteareview.com//http:/walkerteareview.com/robert-fortune-why-real-men-drink-tea)
 
-Thanks to all members of the Association of Tea Bloggers who contributed. Check out their blogs and the [ATB site](http://teabloggers.com/) for more info.
+Thanks to all members of the Association of Tea Bloggers who contributed! Check out their blogs and the [ATB site](http://teabloggers.com/) for more info.
