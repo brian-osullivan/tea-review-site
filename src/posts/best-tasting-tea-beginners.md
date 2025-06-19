@@ -124,7 +124,7 @@ Depending on how you feel about caffeine, you may want to avoid certain blends a
 
 ### Loose tea or tea bags
 
-This is a common debate among experienced coffee drinkers. Tea bags offer a degree of convenience that loose leaf doesn’t. On the other hand, loose leaf tea tends to be fresher and more vibrant in flavor. When you’re starting out, you may be tempted to go with tea bags, for the sake of convenience. However, tea infusers are a cheap and equally convenient option that make it easy to brew loose leaf tea. Not to mention, infusers are reusable, making them a more sustainable option than disposable tea bags.
+This is a common debate among experienced coffee drinkers. Tea bags offer a degree of convenience that loose leaf doesn’t. On the other hand, loose leaf tea tends to be fresher and more vibrant in flavor. When you’re starting out, you may be tempted to go with tea bags, for the sake of convenience. However, tea infusers are a cheap and equally convenient option that make it easy to brew loose leaf tea. Not to mention, infusers are reusable, making them a more [sustainable](https://www.pealabags.com/) option than disposable tea bags.
 
 {% image "tea-collection-4.jpg", "" %}
 
